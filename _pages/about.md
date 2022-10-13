@@ -9,13 +9,6 @@ redirect_from:
 - /about.html
 
 ---
-
-## About me
-
-Hi! Welcome to my academic homepage. I'm a third year Bachelor studying at
-the [Hong Kong University of Science and Technology](https://hkust.edu.hk/) majoring
-in Computer Science and Electronic Engineering.
-
 This webpage is last updated on **2022/10/15**.
 
 ## Education
