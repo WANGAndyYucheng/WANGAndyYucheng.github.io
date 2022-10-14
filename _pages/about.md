@@ -40,4 +40,4 @@ This webpage is last updated on **2022/10/15**.
 
 ## Sitemap
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=_EuMUdqfJXObUeQJ8BBTr_9jxpR7j8MUiCp0Hn8UJwA&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&cl=ffffff&w=a"></script>
