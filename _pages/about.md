@@ -9,7 +9,7 @@ redirect_from:
 - /about.html
 
 ---
-This webpage is last updated on **2022/10/15**.
+This webpage is last updated on **2022/09/15**.
 
 ## Education
 
