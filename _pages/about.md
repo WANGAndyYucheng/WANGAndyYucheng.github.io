@@ -15,19 +15,21 @@ This webpage is last updated on **2022/09/15**.
 
 **Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
 
-- Bsc in Computer Science and Electronic Engineering, (2020-2024)
+- Bsc in Computer Science and Electronic Engineering (2020-2024)
 
 
 ## Awards
 
-* The Joseph Lau Luen Hung Charitable Trust Scholarship  (2021-2022)
+* The Joseph Lau Luen Hung Charitable Trust Scholarship (2021-2022)
 * Dean's List for the School of Engineering (2020 Fall-2022 Spring)
 
 ## Extra-Curriculum Experience
-
-**2020-2021**
+**2022-2023**
 * HKUST Counseling and Wellness Center - Senior Peer Counsellor
-* HKUST Mainland Students and Scholars Society, UG Section (MSSSUG) - Peer Mentor
+
+**2021-2022**
+* HKUST Counseling and Wellness Center - Peer Counsellor
+* HKUST Mainland Students and Scholars Society UG Section (MSSSUG) - Peer Mentor
 
 **2019-2020**
 * Australian Computational & Algorithmic Thinking - High Distinction
