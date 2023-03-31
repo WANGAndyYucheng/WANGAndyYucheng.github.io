@@ -18,7 +18,7 @@ Nice to meet you and welcome to my personal page! My name is WANG Yucheng, a thi
 ## Education
 **Hong Kong University of Science and Technology (HKUST)** (2020-2024)
 - BSc in Computer Science (COSC) and BEng in Electronic Engineering (ELEC)
-- 
+
 **ETH Zürich** (Feb-Sep, 2023)
 - Exchange student in Computer Science
 
