@@ -13,7 +13,9 @@ redirect_from:
 This webpage is last updated on **2023/03/15**.
 
 ## About me
-Nice to meet you and welcome to my personal page! My name is WANG Yucheng, a third year UG student first majoring in Computer Science and second majoring in Electronic Engineering at the [(HKUST)](https://hkust.edu.hk/). My passion lies in the field of **Computer Vision** and **Graphics** research, and have taken several graduate-level courses in these areas. In addition to my primary major, I also pursued my interest for **signal processing** and completed many related courses.
+Nice to meet you and welcome to my personal page! 
+
+My name is WANG Yucheng, a third year UG student first majoring in Computer Science and second majoring in Electronic Engineering at the [(HKUST)](https://hkust.edu.hk/). My passion lies in the field of **Computer Vision** and **Graphics** research, and have taken several graduate-level courses in these areas. In addition to my primary major, I also pursued my interest for **signal processing** and completed many related courses.
 
 ## Education
 ### **Hong Kong University of Science and Technology (HKUST)** (2020-2024)
