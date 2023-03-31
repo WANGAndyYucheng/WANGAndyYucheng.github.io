@@ -66,8 +66,8 @@ ELEC4240    3   Deep Learning in Computer Vision
 ```
 ### Spring at ETHz
 ```angular2html
-263-3710-00L 8,00 Machine Perception 
-263-5806-00L 8,00 Digital Humans 
-252-0064-00L 7,00 Computer Networks 
-151-0566-00L 4,00 Recursive Estimation 
+263-3710-00L 8 Machine Perception 
+263-5806-00L 8 Digital Humans 
+252-0064-00L 7 Computer Networks 
+151-0566-00L 4 Recursive Estimation 
 ```
