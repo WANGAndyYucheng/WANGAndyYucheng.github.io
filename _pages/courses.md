@@ -34,7 +34,7 @@ LANG1003S   3   English for University Studies II
 PHYS1114    3   General Physics II
 UROP1000    0   Undergraduate Research Opportunities
 ```
----
+
 ## UG Year 2
 ### Fall
 ```angular2html
@@ -54,7 +54,7 @@ ELEC3200    4   System Modeling, Analysis and Control
 PHYS1003    3   Energy and Related Environmental Issues
 UROP1100F   1   Undergraduate Research Opportunities
 ```
----
+
 ## UG Year 3
 ### Fall 
 ```angular2html
@@ -66,8 +66,8 @@ ELEC4240    3   Deep Learning in Computer Vision
 ```
 ### Spring at ETHz
 ```angular2html
-263-3710-00L 8 Machine Perception 
-263-5806-00L 8 Digital Humans 
-252-0064-00L 7 Computer Networks 
-151-0566-00L 4 Recursive Estimation 
+263-3710-00L    8   Machine Perception 
+263-5806-00L    8   Digital Humans 
+252-0064-00L    7   Computer Networks 
+151-0566-00L    4   Recursive Estimation 
 ```
