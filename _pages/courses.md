@@ -1,9 +1,9 @@
 ---
 layout: archive
 title: "Course Study Path"
-permalink: /course/
+permalink: /courses/
 redirect_from:
-  - /course
+  - /courses
 ---
 
 ## UG Year 1    
@@ -63,4 +63,11 @@ COMP5411    3   Advanced Computer Graphics
 ELEC1200    4   A System View of Communications: from Signals to Packets
 ELEC3400    4   Introduction to Integrated Circuits and Systems
 ELEC4240    3   Deep Learning in Computer Vision
+```
+### Spring at ETHz
+```angular2html
+263-3710-00L 8,00 Machine Perception 
+263-5806-00L 8,00 Digital Humans 
+252-0064-00L 7,00 Computer Networks 
+151-0566-00L 4,00 Recursive Estimation 
 ```

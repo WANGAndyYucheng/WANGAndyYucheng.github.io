@@ -9,37 +9,37 @@ redirect_from:
 - /about.html
 
 ---
-This webpage is last updated on **2022/09/15**.
+This webpage is last updated on **2023/03/15**.
+
+## About me
+Nice to meet you and welcome to my personal page! My name is WANG Yucheng, a third year UG student first majoring in Computer Science and second majoring in Electronic Engineering at the [(HKUST)](https://hkust.edu.hk/). My passion lies in the field of Computer Vision and Graphics research, and have taken several graduate-level courses in these areas. In addition to my primary major, I also pursued my interest for signal processing and control by completing many related courses in ELEC.
 
 ## Education
-
-**Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/)**
-
-- Bsc in Computer Science and Electronic Engineering (2020-2024)
-
+**Hong Kong University of Science and Technology (HKUST)** (2020-2024)
+- BSc in Computer Science (COSC)
+- BEng in Electronic Engineering (ELEC)
+**ETH Zürich** (Feb-Sep, 2023)
+- Exchange student in Computer Science
 
 ## Awards
+**HKSAR Government Scholarship** (2022-2023)
+**The Joseph Lau Luen Hung Charitable Trust Scholarship** (2021-2022)
+**Dean's List for the School of Engineering** (2020 Fall-2023 Fall)
 
-* The Joseph Lau Luen Hung Charitable Trust Scholarship (2021-2022)
-* Dean's List for the School of Engineering (2020 Fall-2022 Spring)
+## Teaching Assistance
+**COMP2011 Programming with C++** (2023 Fall)
 
 ## Extra-Curriculum Experience
 **2022-2023**
-* HKUST Counseling and Wellness Center - Senior Peer Counsellor
+HKUST Counseling and Wellness Center - Senior Peer Counsellor
 
 **2021-2022**
-* HKUST Counseling and Wellness Center - Peer Counsellor
-* HKUST Mainland Students and Scholars Society UG Section (MSSSUG) - Peer Mentor
+HKUST Counseling and Wellness Center - Peer Counsellor
+HKUST Mainland Students and Scholars Society UG Section (MSSSUG) - Peer Mentor
 
-**2019-2020**
-* Australian Computational & Algorithmic Thinking - High Distinction
+**before 2020**
+National Olympiad in Informatics in Provinces (NOIP) - First prize
+China Collegiate Programming Contest (CCPC) - Silver Medal in Division
+Australian Computational & Algorithmic Thinking - High Distinction
+Harvard University Model G20 Summit - Outstanding Individual Delegate
 
-**2018-2019**
-* National Olympiad in Informatics in Provinces (NOIP) - First prize
-* China Collegiate Programming Contest (CCPC) - Silver Medal in Division
-* Harvard University Model G20 Summit - Outstanding Individual Delegate
-
-
-## Sitemap
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&cl=ffffff&w=a"></script>
