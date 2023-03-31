@@ -59,15 +59,15 @@ UROP1100F   1   Undergraduate Research Opportunities
 ### Fall 
 ```angular2html
 COMP4421    3   Image Processing
-COMP5411    3   Advanced Computer Graphics
+COMP5411    3   Advanced Computer Graphics (Master-Level)
 ELEC1200    4   A System View of Communications: from Signals to Packets
 ELEC3400    4   Introduction to Integrated Circuits and Systems
 ELEC4240    3   Deep Learning in Computer Vision
 ```
 ### Spring at ETHz
 ```angular2html
-263-3710-00L    8   Machine Perception 
-263-5806-00L    8   Digital Humans 
+263-3710-00L    8   Machine Perception (Master-Level)
+263-5806-00L    8   Digital Humans (Master-Level)
 252-0064-00L    7   Computer Networks 
-151-0566-00L    4   Recursive Estimation 
+151-0566-00L    4   Recursive Estimation (Master-Level)
 ```
