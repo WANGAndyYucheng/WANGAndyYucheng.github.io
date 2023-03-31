@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WANG Andy Yucheng"
+title: "WANG Andy Yucheng 王禹铖"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -16,10 +16,10 @@ This webpage is last updated on **2023/03/15**.
 Nice to meet you and welcome to my personal page! My name is WANG Yucheng, a third year UG student first majoring in Computer Science and second majoring in Electronic Engineering at the [(HKUST)](https://hkust.edu.hk/). My passion lies in the field of **Computer Vision** and **Graphics** research, and have taken several graduate-level courses in these areas. In addition to my primary major, I also pursued my interest for **signal processing** and completed many related courses.
 
 ## Education
-**Hong Kong University of Science and Technology (HKUST)** (2020-2024)
+### **Hong Kong University of Science and Technology (HKUST)** (2020-2024)
 - BSc in Computer Science (COSC) and BEng in Electronic Engineering (ELEC)
 
-**ETH Zürich** (Feb-Sep, 2023)
+### **ETH Zürich** (Feb-Sep, 2023)
 - Exchange student in Computer Science
 
 ## Awards
