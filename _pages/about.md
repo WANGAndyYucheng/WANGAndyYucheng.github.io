@@ -43,7 +43,7 @@ This webpage is last updated on **2023/03/15**.
 
 - HKUST Mainland Students and Scholars Society UG Section (MSSSUG) - Peer Mentor
 
-### (before 2020)
+### (before 2021)
 
 - National Olympiad in Informatics in Provinces (NOIP) - First prize
 
