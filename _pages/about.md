@@ -28,7 +28,7 @@ This webpage is last updated on **2023/03/15**.
 - HKSAR Government Scholarship (2022-2023)
 - Lee Hysan Foundation Exchange Scholarships (2022-2023)
 - The Joseph Lau Luen Hung Charitable Trust Scholarship (2021-2022)
-- Dean's List for the School of Engineering (2020 Fall-2023 Fall)
+- Dean's List for the School of Engineering (2020 Fall-2022 Fall)
 
 ## Teaching Assistance
 - COMP2011 Programming with C++ (2023 Fall)
