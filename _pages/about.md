@@ -26,13 +26,11 @@ This webpage is last updated on **2023/09/15**.
 
 ## Selected Awards
 - HKSAR Government Scholarship (2022-2024)
-- Lee Hysan Foundation Exchange Scholarships (2022-2023)
 - HKSAR Government Scholarship Fund - Reaching Out Award (2022-2023)
+- Lee Hysan Foundation Exchange Scholarships (2022-2023)
 - The Joseph Lau Luen Hung Charitable Trust Scholarship (2021-2022)
-- Dean's List for the School of Engineering (2020 Fall-2022 Fall)
 - National Olympiad in Informatics in Provinces (NOIP) - First prize (2018)
 - China Collegiate Programming Contest (CCPC) Northeast Region - Silver Medal (2018)
-- Australian Computational & Algorithmic Thinking - High Distinction (2018)
 
 ## Teaching and Mentoring Experience
 - **Teaching Assistance** in COMP2011 Programming with C++ (2022 Fall)
@@ -41,7 +39,7 @@ This webpage is last updated on **2023/09/15**.
 ## Extra-Curriculum Experience
 - **Senior Peer Counsellor** at HKUST Counseling and Wellness Center (2022-2023)
 - **Peer Counsellor** at HKUST Counseling and Wellness Center (2020-2022)
-- **Peer Mentor** at HKUST Mainland Students and Scholars Society UG Section (MSSSUG) (2021-2022)
+- **Peer Mentor** at HKUST Mainland Students and Scholars Society UG Sectionss (2021-2022)
 
 
 
