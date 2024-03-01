@@ -13,9 +13,9 @@ redirect_from:
 ## About me
 Nice to meet you and welcome to my personal page! 
 
-My name is WANG Yucheng, a fourth year UG double majoring in Computer Science and Electronic Engineering at HKUST. My passion lies in the field of **Computer Vision** with a recent focus on the **Generative Models**. Researches in **Computer Graphics** and **Signal Processing** also interests me a lot.
+My name is WANG Yucheng, a fourth year UG double majoring in Computer Science and Electronic Engineering at HKUST. My passion lies in the field of **image/video generation** with **AIGC** related techniques.
 
-This webpage is last updated on **2023/09/15**.
+This webpage is last updated on **2023/02/15**.
 
 ## Education
 ### Hong Kong University of Science and Technology (HKUST) (2020-2024)
@@ -34,12 +34,13 @@ This webpage is last updated on **2023/09/15**.
 
 ## Teaching and Mentoring Experience
 - **Teaching Assistance** in COMP2011 Programming with C++ (2022 Fall)
-- **Peer Mentor** in the Department of Computer Science and Engineering (2023 Fall)
+
 
 ## Extra-Curriculum Experience
-- **Senior Peer Counsellor** at HKUST Counseling and Wellness Center (2022-2023)
-- **Peer Counsellor** at HKUST Counseling and Wellness Center (2020-2022)
+- **Peer Mentor** in the HKUST COMP & CPEG Mentor-Mentee Scheme (2023 Fall)
+- **Peer Counsellor** at HKUST Counseling and Wellness Center (2020-2023)
 - **Peer Mentor** at HKUST Mainland Students and Scholars Society UG Sectionss (2021-2022)
 
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=tWMV0ESM0d2eCob7phTG1oQYA4mFpXibjw5olYBqwYA&cl=ffffff&w=a"></script>
 
 

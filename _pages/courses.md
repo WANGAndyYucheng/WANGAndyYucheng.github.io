@@ -71,3 +71,19 @@ ELEC4240    3   Deep Learning in Computer Vision
 252-0064-00L    7   Computer Networks 
 151-0566-00L    4   Recursive Estimation (Master-Level)
 ```
+## UG Year 4
+### Fall 
+```angular2html
+COMP3511    3   Operating Systems 
+COMP4981H   2   Final Year Thesis 
+MATH2033    4   Mathematical Analysis 
+HUMA1060    3   Introduction to Mandarin Chinese Grammar
+```
+### Spring
+```angular2html
+COMP3111    3   Software Engineering
+COMP4981H   3   Final Year Thesis 
+HUMA1000G   3   Cultures and Values: Love, Death and Human Nature
+LANG1424P   3   Chinese Writing in Cultural Contexts
+LANG4030    3   Technical Communication II for CSE, CPEG & DSCT
+MGMT1120    3   Developing the Leader in You
