@@ -41,6 +41,3 @@ This webpage is last updated on **2023/02/15**.
 - **Peer Counsellor** at HKUST Counseling and Wellness Center (2020-2023)
 - **Peer Mentor** at HKUST Mainland Students and Scholars Society UG Sectionss (2021-2022)
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=tWMV0ESM0d2eCob7phTG1oQYA4mFpXibjw5olYBqwYA&cl=ffffff&w=a"></script>
-
-
