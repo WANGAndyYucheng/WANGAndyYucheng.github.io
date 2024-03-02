@@ -87,3 +87,4 @@ HUMA1000G   3   Cultures and Values: Love, Death and Human Nature
 LANG1424P   3   Chinese Writing in Cultural Contexts
 LANG4030    3   Technical Communication II for CSE, CPEG & DSCT
 MGMT1120    3   Developing the Leader in You
+```
