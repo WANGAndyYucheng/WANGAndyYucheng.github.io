@@ -2,8 +2,5 @@
 main:
   - title: "Main Page"
     url: /about/
-
-  - title: "Courses"
-    url: /courses/
   
   

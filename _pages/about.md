@@ -13,7 +13,7 @@ redirect_from:
 ## About me
 Nice to meet you and welcome to my personal page! 
 
-My name is WANG Yucheng, a fourth year UG double majoring in Computer Science and Electronic Engineering at HKUST. My passion lies in the field of **image/video generation** with **AIGC** related techniques.
+My name is WANG Yucheng. My passion lies in the field of **image/video generation** with **AIGC** related techniques.
 
 This webpage is last updated on **2023/02/15**.
 
@@ -33,11 +33,8 @@ This webpage is last updated on **2023/02/15**.
 - China Collegiate Programming Contest (CCPC) Northeast Region - Silver Medal (2018)
 
 ## Teaching and Mentoring Experience
-- **Teaching Assistance** in COMP2011 Programming with C++ (2022 Fall)
-
-
-## Extra-Curriculum Experience
-- **Peer Mentor** in the HKUST COMP & CPEG Mentor-Mentee Scheme (2023 Fall)
-- **Peer Counsellor** at HKUST Counseling and Wellness Center (2020-2023)
-- **Peer Mentor** at HKUST Mainland Students and Scholars Society UG Sectionss (2021-2022)
+- **Teaching Helper**, COMP2011 Programming with C++ (2022 Fall)
+- **Peer Counsellor**, HKUST Counseling and Wellness Center (2020-2023)
+- **Peer Mentor**, HKUST COMP & CPEG Mentor-Mentee Scheme (2023 Fall)
+- **Peer Mentor**, Mainland Students and Scholars Society, UG Section, HKUST (2021-2022)
 
