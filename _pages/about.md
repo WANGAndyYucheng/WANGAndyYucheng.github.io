@@ -13,16 +13,15 @@ redirect_from:
 ## About me
 Nice to meet you and welcome to my personal page! 
 
-My name is WANG Yucheng. My passion lies in the field of **image/video generation** with **AIGC** related techniques.
-
-This webpage is last updated on **2023/02/15**.
+My research passion lies in **Human-centric image/video generation** with **AIGC** related techniques.
 
 ## Education
 ### Hong Kong University of Science and Technology (HKUST) (2020-2024)
-- BSc in Computer Science (COSC) and BEng in Electronic Engineering (ELEC)
+- Bachelor of Science (BSc), Computer Science Program
+- Bachelor of Engineering (BEng), Electronic Engineering Program
 
 ### ETH Zürich (ETHz) (Feb-Sep, 2023)
-- Exchange student in Computer Science
+- Exchange student, Computer Science Program
 
 ## Selected Awards
 - HKSAR Government Scholarship (2022-2024)
