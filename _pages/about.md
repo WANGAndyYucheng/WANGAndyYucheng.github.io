@@ -13,7 +13,7 @@ redirect_from:
 ## About me
 Nice to meet you and welcome to my personal page! 
 
-My research passion lies in ***Human-centric image/video generation***.
+My research passion lies in **Human-centric image/video generation**.
 
 ## Education
 ### Hong Kong University of Science and Technology (HKUST) (2020-2024)
