@@ -11,29 +11,31 @@ redirect_from:
 ---
 
 ## About me
-Nice to meet you and welcome to my personal page! 
+Nice to meet you! I'm a first-year Ph.D. student at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))) supervised by [Prof. Dan Xu](https://www.danxurgb.net). 
 
-My research passion lies in **Human-centric image/video generation**.
+I received my Bachelor's degree with double major also from [HKUST]((https://hkust.edu.hk/)) in 2024.
 
-## Education
-### Hong Kong University of Science and Technology (HKUST) (2020-2024)
-- Bachelor of Science (BSc), Computer Science Program
-- Bachelor of Engineering (BEng), Electronic Engineering Program
+My current research interest lies in Human-centric generation, especially for Talking Head Video/3D Facial Animation generation with Diffusion Model. Welcome to any types of research collaboration and discussions!
 
-### ETH Zürich (ETHz) (Feb-Sep, 2023)
-- Exchange student, Computer Science Program
+## Education 
+<img src="images/HKUST.png" width="50" height="50" style="float: left; margin-right: 10px;"> 
 
-## Selected Awards
+### Hong Kong University of Science and Technology (2020-2024)
+- Bachelor of Science (BSc), Computer Science
+- Bachelor of Engineering (BEng), Electronic Engineering
+
+<img src="images/HKUST.png" width="50" height="50" style="float: left; margin-right: 10px;"> 
+
+### ETH Zürich (Feb-Sep, 2023)
+- Exchange student, Computer Science
+
+## Awards
+- HKUST Academic Achievement Medal (2024)
 - HKSAR Government Scholarship (2022-2024)
 - HKSAR Government Scholarship Fund - Reaching Out Award (2022-2023)
 - Lee Hysan Foundation Exchange Scholarships (2022-2023)
 - The Joseph Lau Luen Hung Charitable Trust Scholarship (2021-2022)
 - National Olympiad in Informatics in Provinces (NOIP) - First prize (2018)
-- China Collegiate Programming Contest (CCPC) Northeast Region - Silver Medal (2018)
 
-## Teaching and Mentoring Experience
-- **Teaching Helper**, COMP2011 Programming with C++ (2022 Fall)
-- **Peer Counsellor**, HKUST Counseling and Wellness Center (2020-2023)
-- **Peer Mentor**, HKUST COMP & CPEG Mentor-Mentee Scheme (2023 Fall)
-- **Peer Mentor**, Mainland Students and Scholars Society, UG Section, HKUST (2021-2022)
-
+## Visitors
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=240&t=n&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>

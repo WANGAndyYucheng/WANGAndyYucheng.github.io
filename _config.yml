@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Yucheng"
+title                    : "WANG Andy Yucheng"
 title_separator          : "-"
 name                     : &name "WANG Yucheng"
-description              : &description "Undergraduate @HKUST"
+description              : &description "Postgraduate @HKUST"
 url                      : https://WANGAndyYucheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WANGAndyYucheng/WANGAndyYucheng.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "WANG Yucheng"
   avatar           : "avatar_new.jpg"
-  bio              : "Fourth Year UG Student @HKUST Majoring in CS and EE"
+  bio              : "Ph.D. Student @HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
