@@ -20,13 +20,13 @@ My current research interest lies in **Human-centric generation**, especially fo
 Welcome to any types of research collaboration and discussions!
 
 ## Education 
-<img src="images/HKUST.png" width="100" height="100" style="float: left; margin-right: 10px;"> 
+<img src="images/HKUST.png" width="75" height="75" style="float: left; margin-right: 10px;"> 
 
 ### Hong Kong University of Science and Technology (2020-2024)
 - Bachelor of Science (BSc), Computer Science
 - Bachelor of Engineering (BEng), Electronic Engineering
 
-<img src="images/ETH.jepg" width="100" height="100" style="float: left; margin-right: 10px;"> 
+<img src="images/ETH.jpeg" width="75" height="75" style="float: left; margin-right: 10px;"> 
 
 ### ETH Zürich (Feb-Sep, 2023)
 - Exchange student, Computer Science
@@ -40,4 +40,4 @@ Welcome to any types of research collaboration and discussions!
 - National Olympiad in Informatics in Provinces (NOIP) - First prize (2018)
 
 ## Visitors
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=240&t=tt&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
