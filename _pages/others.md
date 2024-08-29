@@ -14,6 +14,6 @@ I have actively engaged in various non-academic roles during my undergraduate ye
 - **Peer Mentor**, Mainland Students and Scholars Society, UG Section
 - **Student Helper**, Mainland UG Admissions Interview
 
-Strong passiond for basketball, wind instruments(saxophone and trumpet), all-time Sci-Fi and classical comics. 
+Strong passions for basketball, wind instruments, classical Sci-Fi and comics. 
 
 Join me as I share my passions with you!
