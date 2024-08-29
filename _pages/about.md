@@ -11,20 +11,22 @@ redirect_from:
 ---
 
 ## About me
-Nice to meet you! I'm a first-year Ph.D. student at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))) supervised by [Prof. Dan Xu](https://www.danxurgb.net). 
+Nice to meet you! I'm a first-year Ph.D. student at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))) supervised by [Prof. Dan Xu](https://www.danxurgb.net) . 
 
 I received my Bachelor's degree with double major also from [HKUST]((https://hkust.edu.hk/)) in 2024.
 
-My current research interest lies in Human-centric generation, especially for Talking Head Video/3D Facial Animation generation with Diffusion Model. Welcome to any types of research collaboration and discussions!
+My current research interest lies in **Human-centric generation**, especially for Talking Head Video/3D Facial Animation generation with Diffusion Model. 
+
+Welcome to any types of research collaboration and discussions!
 
 ## Education 
-<img src="images/HKUST.png" width="50" height="50" style="float: left; margin-right: 10px;"> 
+<img src="images/HKUST.png" width="100" height="100" style="float: left; margin-right: 10px;"> 
 
 ### Hong Kong University of Science and Technology (2020-2024)
 - Bachelor of Science (BSc), Computer Science
 - Bachelor of Engineering (BEng), Electronic Engineering
 
-<img src="images/HKUST.png" width="50" height="50" style="float: left; margin-right: 10px;"> 
+<img src="images/ETH.jepg" width="100" height="100" style="float: left; margin-right: 10px;"> 
 
 ### ETH Zürich (Feb-Sep, 2023)
 - Exchange student, Computer Science
@@ -38,4 +40,4 @@ My current research interest lies in Human-centric generation, especially for Ta
 - National Olympiad in Informatics in Provinces (NOIP) - First prize (2018)
 
 ## Visitors
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=240&t=n&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
