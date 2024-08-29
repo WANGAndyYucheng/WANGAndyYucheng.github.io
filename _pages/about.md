@@ -26,7 +26,7 @@ Welcome to any types of research collaboration and discussions!
 - Bachelor of Science (BSc), Computer Science
 - Bachelor of Engineering (BEng), Electronic Engineering
 
-<img src="images/ETH.jpeg" width="100" height="100" style="float: left; margin-right: 0px;"> 
+<img src="images/ETH.jpeg" width="100" height="100" style="float: right; margin-right: 0px;"> 
 
 ### ETH Zürich (Feb-Sep, 2023)
 - Exchange student, Computer Science
