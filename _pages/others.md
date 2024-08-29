@@ -1,13 +1,9 @@
 ---
-permalink: /
-title: "WANG Andy Yucheng 王禹铖"
-excerpt: "About me"
-author_profile: true
+layout: archive
+title: "Others"
+permalink: /others/
 redirect_from:
-
-- /others/
-- /others.html
-
+  - /others
 ---
 
 
