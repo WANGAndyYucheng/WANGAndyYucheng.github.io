@@ -16,7 +16,6 @@ I have actively engaged in various non-academic roles during my undergraduate ye
 
 Strong passions for basketball, wind instruments, classical Sci-Fi and comics. 
 
-Join me as I share my passions with you!
+「Home~ My Song Diary」 by Priscilla Ahn is my recent favorite album!
 
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2dS3q1l9KWQG1oKhrdOlgm?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1fSp3B3Wrf88oGcY5BJqwS?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
