@@ -12,7 +12,7 @@ redirect_from:
 
 ## About me
 Welcome! I'm a first-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net), at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))). I earned my Bachelor's degree also from [HKUST]((https://hkust.edu.hk/)).
-D
+
 My research centers on **human-centric generation** within the broader domain of computer vision and generative AI. Specifically, I am interested in talking head generation based on DiT/3DGS and pesonalized image generation. Feel free to connect!
 
 ## Education 
