@@ -12,10 +12,8 @@ redirect_from:
 
 ## About me
 Welcome! I'm a first-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net), at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))). I earned my Bachelor's degree also from [HKUST]((https://hkust.edu.hk/)).
-
-My research centers on **human-centric generation** within the broader domain of computer vision and generative AI. Specifically, I am interested in talking head generation based on DiT/3DGS and pesonalized image generation. 
-
-I am enthusiastic about collaborations and exchanging ideas - feel free to connect!
+D
+My research centers on **human-centric generation** within the broader domain of computer vision and generative AI. Specifically, I am interested in talking head generation based on DiT/3DGS and pesonalized image generation. Feel free to connect!
 
 ## Education 
 <img src="images/HKUST.png" width="100" height="100" style="float: right; margin-right: 0px; margin-top: 15px"> 
@@ -38,7 +36,8 @@ I am enthusiastic about collaborations and exchanging ideas - feel free to conne
 - The Joseph Lau Luen Hung Charitable Trust Scholarship (2021)
 - National Olympiad in Informatics in Provinces (NOIP) - First prize (2018)
 
-## 
+## Services
+- Teaching Assistant: Object-Oriented Programming and Data Structures
 
 ## Visitors
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=240&t=tt&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
