@@ -16,8 +16,8 @@ Welcome! I'm a first-year Ph.D. student supervised by [Prof. Dan Xu](https://www
 My research centers on **human-centric generation** within the broader domain of computer vision and generative AI. Specifically, I am interested in human-centric video generation and controllable image generation/editing. Feel free to connect!
 
 ## News
-- **July 2025**: One paper on Talking Head Generation with **DiT+3DMM** is now available on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
-- **July 2025**: Co-authored a paper accepted at *ICCV 2025*. Congrats to [Shaocong Dong](https://hkdsc.github.io/)!
+- **July 2025**: One paper on Talking Head Generation with **DiT+3DMM** is now on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
+- **July 2025**: Co-authored a paper accepted at *ICCV 2025*. Thanks [Shaocong](https://hkdsc.github.io/)!
 
 ## Education 
 <img src="images/HKUST.png" width="100" height="100" style="float: right; margin-right: 0px; margin-top: 15px"> 
