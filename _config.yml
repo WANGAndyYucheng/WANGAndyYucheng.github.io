@@ -85,10 +85,10 @@ author:
   bio              : "Ph.D. Student @HKUST"
   location         : "Hong Kong SAR, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=KWvFLQwAAAAJ&hl=en"
   email            : "ywangls@connect.ust.hk"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        : 
   codepen          :
@@ -99,8 +99,8 @@ author:
   github           : "WANGAndyYucheng"
   google_plus      :
   keybase          :
-  instagram        : "samo_cyan"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : # "samo_cyan"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "wang-andy-yucheng"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0001-8378-8221"

@@ -11,9 +11,13 @@ redirect_from:
 ---
 
 ## About me
-Welcome! I'm a first-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net), at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))). I earned my Bachelor's degree also from [HKUST]((https://hkust.edu.hk/)).
+Welcome! I'm a first-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net), at Hong Kong University of Science and Technology ([HKUST]((https://hkust.edu.hk/))).
 
-My research centers on **human-centric generation** within the broader domain of computer vision and generative AI. Specifically, I am interested in talking head generation based on DiT/3DGS and pesonalized image generation. Feel free to connect!
+My research centers on **human-centric generation** within the broader domain of computer vision and generative AI. Specifically, I am interested in human-centric video generation and controllable image generation/editing. Feel free to connect!
+
+## News
+- **July 2025**: One paper on Talking Head Generation with **DiT+3DMM** is now available on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
+- **July 2025**: Co-authored a paper accepted at *ICCV 2025*. Congrats to [Shaocong Dong](https://hkdsc.github.io/)!
 
 ## Education 
 <img src="images/HKUST.png" width="100" height="100" style="float: right; margin-right: 0px; margin-top: 15px"> 
@@ -27,12 +31,10 @@ My research centers on **human-centric generation** within the broader domain of
 ### ETH Zürich (Feb-Sep, 2023)
 - Exchange student, Computer Science
 
-## Awards
+## Selected Awards
 - Hong Kong PhD Fellowship Scheme (2024) 
 - HKUST Academic Achievement Medal (2024)
 - HKSAR Government Scholarship (2023, 2022)
-- HKSAR Government Scholarship Fund - Reaching Out Award (2023)
-- Lee Hysan Foundation Exchange Scholarships (2023)
 - The Joseph Lau Luen Hung Charitable Trust Scholarship (2021)
 - National Olympiad in Informatics in Provinces (NOIP) - First prize (2018)
 
