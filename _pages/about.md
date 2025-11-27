@@ -10,7 +10,7 @@ redirect_from:
 
 ## About me
 
-I'm a second-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net) at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to work with [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) on 3D gaze estimation and eye modeling.
+I'm a second-year Ph.D. student advised by [Prof. Dan Xu](https://www.danxurgb.net) at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to work with [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) on 3D gaze estimation and eye modeling.
 
 My research centers on human-centric computer vision within the broader domain of computer vision and generative AI. Specifically, I am interested in **human-centric reconstruction** and **controllable image/video editing**. Feel free to connect!
 
@@ -40,7 +40,7 @@ My research centers on human-centric computer vision within the broader domain o
 <img src="images/SmartMore.png" width="100" height="100" style="float: right; margin-right: 0px;"> 
 
 ### SmartMore (Nov 2023 – Jan 2024)  
-- Supervised by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) 
+- Mentored by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) 
 - Research on LVLM for super resolution and LVLM pruning.  
 
 ## Selected Awards
