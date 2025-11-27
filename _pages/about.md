@@ -10,17 +10,17 @@ redirect_from:
 
 ## About me
 
-Welcome! I'm a second-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net) at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to work with [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) on 3D gaze estimation and eye modeling.
+I'm a second-year Ph.D. student supervised by [Prof. Dan Xu](https://www.danxurgb.net) at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to work with [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) on 3D gaze estimation and eye modeling.
 
-My research centers on **human-centric computer vision** within the broader domain of computer vision and generative AI. Specifically, I am interested in **human-centric reconstruction** and **controllable image/video editing**. Feel free to connect!
+My research centers on human-centric computer vision within the broader domain of computer vision and generative AI. Specifically, I am interested in **human-centric reconstruction** and **controllable image/video editing**. Feel free to connect!
 
 ## News
 
-- **September 2025**: One co-authored survey on **Controllable Video Generation** released on *[arXiv](https://arxiv.org/abs/2507.16869)*. Appreciate the dedication of [Yue Ma](https://mayuelala.github.io/)!  
-- - **July 2025**: One co-authored paper on **3D Generation** accepted at ICCV 2025. Appreciate the dedication of [Shaocong Dong](https://hkdsc.github.io/)!  
-- **July 2025**: One paper on **Talking Head Generation** released on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
-- **September 2024**: I’ve started my Ph.D. in Computer Science at HKUST, where I am advised by [Prof. Dan Xu](https://www.danxurgb.net).  
-- **June 2024**: I’ve graduated from HKUST with the [Academic Achievement Medal](https://registry.hkust.edu.hk/academic-achievement-medal). Thank you all my mentors and friends!  
+- **Aug 2025**: One co-authored survey on **Controllable Video Generation** released on *[arXiv](https://arxiv.org/abs/2507.16869)*. Appreciate the dedication of [Yue Ma](https://mayuelala.github.io/)!  
+- **Jul 2025**: One co-authored paper on **3D Generation** accepted at ICCV 2025. Appreciate the dedication of [Shaocong Dong](https://hkdsc.github.io/)! Paper released on *[arXiv](https://arxiv.org/abs/2507.08772)*.
+- **Jul 2025**: One paper on **Talking Head Generation** released on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
+- **Sep 2024**: I’ve started my Ph.D. in Computer Science at HKUST, where I am advised by [Prof. Dan Xu](https://www.danxurgb.net).  
+- **Jun 2024**: I’ve graduated from HKUST with the [Academic Achievement Medal](https://registry.hkust.edu.hk/academic-achievement-medal). Thank you all my mentors and friends!  
 
 ## Education 
 
@@ -37,8 +37,10 @@ My research centers on **human-centric computer vision** within the broader doma
 
 ## Work Experience
 
-- **SmartMore** — Research Intern (Nov 2023 – Jan 2024)  
-  Supervised by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) on LVM for super-resolution and LVM pruning.  
+<img src="images/SmartMore.png" width="100" height="100" style="float: right; margin-right: 0px;"> 
+
+### SmartMore (Nov 2023 – Jan 2024)  
+Supervised by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) on LVM for super-resolution and LVM pruning.  
 
 ## Selected Awards
 
