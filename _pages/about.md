@@ -16,10 +16,10 @@ My research centers on human-centric computer vision within the broader domain o
 
 ## News
 
-- **Aug 2025**: One co-authored survey on **Controllable Video Generation** released on *[arXiv](https://arxiv.org/abs/2507.16869)*. Appreciate the dedication of [Yue Ma](https://mayuelala.github.io/)!  
+- **Aug 2025**: One co-authored survey on **Controllable Video Generation** released on *[arXiv](https://arxiv.org/abs/2507.16869)*. Appreciate the dedication of [Yue Ma](https://mayuelala.github.io/)! Summary on *[Github](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)*.
 - **Jul 2025**: One co-authored paper on **3D Generation** accepted at ICCV 2025. Appreciate the dedication of [Shaocong Dong](https://hkdsc.github.io/)! Paper released on *[arXiv](https://arxiv.org/abs/2507.08772)*.
 - **Jul 2025**: One paper on **Talking Head Generation** released on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
-- **Sep 2024**: I’ve started my Ph.D. in Computer Science at HKUST, where I am advised by [Prof. Dan Xu](https://www.danxurgb.net).  
+- **Sep 2024**: I’ve started my Ph.D. in Computer Science at HKUST advised by [Prof. Dan Xu](https://www.danxurgb.net).  
 - **Jun 2024**: I’ve graduated from HKUST with the [Academic Achievement Medal](https://registry.hkust.edu.hk/academic-achievement-medal). Thank you all my mentors and friends!  
 
 ## Education 
@@ -40,7 +40,8 @@ My research centers on human-centric computer vision within the broader domain o
 <img src="images/SmartMore.png" width="100" height="100" style="float: right; margin-right: 0px;"> 
 
 ### SmartMore (Nov 2023 – Jan 2024)  
-Supervised by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) on LVM for super-resolution and LVM pruning.  
+- Supervised by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) 
+- Research on LVLM for super resolution and LVLM pruning.  
 
 ## Selected Awards
 
