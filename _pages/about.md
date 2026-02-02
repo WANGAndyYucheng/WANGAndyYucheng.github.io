@@ -54,9 +54,9 @@ My research centers on human-centric computer vision within the broader domain o
 - The Joseph Lau Luen Hung Charitable Trust Scholarship (2021)  
 - National Olympiad in Informatics in Provinces (NOIP) – First Prize (2018)  
 
-## Services
-
-- Teaching Assistant: Object-Oriented Programming and Data Structures  
+## Teaching Assistant
+- 25-26 Spring: Deep 2D and 3D Visual Scene Understanding
+- 24-25 Spring: Object-Oriented Programming and Data Structures
 
 ## Visitors
 
