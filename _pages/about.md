@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: ""
-excerpt: ""
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -106,8 +106,8 @@ My research centers on human-centric computer vision within the broader domain o
 
 ## 👨‍🏫 Teaching Assistant
 
-- Deep 2D and 3D Visual Scene Understanding, 25-26 Spring
-- Object-Oriented Programming and Data Structures, 24-25 Spring
+- Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring
+- Object-Oriented Programming and Data Structures, 2024-2025 Spring
 
 ## 👀 Visitors
 

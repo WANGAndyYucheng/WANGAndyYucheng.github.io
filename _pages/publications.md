@@ -28,10 +28,13 @@ author_profile: true
     margin: 0.15rem 0 0.55rem 0;
   }
   .pub-title-row {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    flex-wrap: wrap;
+    margin: 0.15rem 0 0.55rem 0;
+  }
+  .pub-title-row .pub-venue {
+    margin-bottom: 0.45rem;
+  }
+  .pub-title-row strong {
+    display: block;
   }
   .pub-venue {
     display: inline-block;
