@@ -1,8 +1,10 @@
 # main links links
 main:
-  - title: "Main Page"
+  - title: "About"
     url: /about/
-  - title: "Others"
+  - title: "Pub"
+    url: /publications/
+  - title: "Misc"
     url: /others/
   
   

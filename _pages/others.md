@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Others"
+title: ""
 permalink: /others/
 redirect_from:
   - /others
