@@ -63,7 +63,7 @@ My research centers on human-centric computer vision within the broader domain o
 
 <div class="about-entry">
   <div class="about-entry-text">
-    <h3>HKUST (2020-2024)</h3>
+    <h3>HKUST, 2020-2024</h3>
     <ul>
       <li>Bachelor of Science (BSc), Computer Science</li>
       <li>Bachelor of Engineering (BEng), Electronic Engineering</li>
@@ -74,7 +74,7 @@ My research centers on human-centric computer vision within the broader domain o
 
 <div class="about-entry">
   <div class="about-entry-text">
-    <h3>ETH Zurich (2023 Spring)</h3>
+    <h3>ETH Zurich, 2023 Spring</h3>
     <ul>
       <li>Exchange student, Computer Science</li>
     </ul>
@@ -86,7 +86,7 @@ My research centers on human-centric computer vision within the broader domain o
 
 <div class="about-entry">
   <div class="about-entry-text">
-    <h3>SmartMore (Nov 2023-Jan 2024)</h3>
+    <h3>SmartMore, Nov 2023-Jan 2024</h3>
     <ul>
       <li>Mentored by <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a></li>
       <li>Research on LVLM for super resolution and LVLM pruning.</li>
@@ -97,19 +97,17 @@ My research centers on human-centric computer vision within the broader domain o
 
 ## 🏅 Selected Awards
 
-- Hong Kong PhD Fellowship Scheme (2024)  
-- HKUST RedBird PhD Scholarship (2024)  
-- HKUST Academic Achievement Medal (2024)  
-- HKSAR Government Scholarship (2023, 2022)
-- HKSAR Government Scholarship Fund - Reaching Out Award (2022)
-- Lee Hysan Foundation Exchange Scholarships (2022)
-- The Joseph Lau Luen Hung Charitable Trust Scholarship (2021)  
-- National Olympiad in Informatics in Provinces (NOIP) – First Prize (2018)  
+- Hong Kong PhD Fellowship Scheme, 2024  
+- HKUST RedBird PhD Scholarship, 2024  
+- HKUST Academic Achievement Medal, 2024  
+- HKSAR Government Scholarship, 2022-2023
+- HKSAR Government Scholarship Fund - Reaching Out Award, 2023
+- The Joseph Lau Luen Hung Charitable Trust Scholarship, 2021
 
 ## 👨‍🏫 Teaching Assistant
 
-- 25-26 Spring: Deep 2D and 3D Visual Scene Understanding
-- 24-25 Spring: Object-Oriented Programming and Data Structures
+- Deep 2D and 3D Visual Scene Understanding, 25-26 Spring
+- Object-Oriented Programming and Data Structures, 24-25 Spring
 
 ## 👀 Visitors
 

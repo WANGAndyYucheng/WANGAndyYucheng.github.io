@@ -12,8 +12,8 @@ author_profile: true
   }
   .pub-teaser {
     float: right;
-    width: 220px;
-    max-width: 32%;
+    width: 400px;
+    max-width: 40%;
     margin-right: 0;
     margin-top: 0.25rem;
     margin-left: 1rem;
@@ -58,7 +58,7 @@ author_profile: true
     <img class="pub-teaser" src="/images/pubs/CVGAS.png" alt="Controllable Video Generation teaser">
     <p class="pub-title-row">
       <span class="pub-venue">arXiv 2025</span>
-      <strong>Controllable Video Generation: A Survey</strong></a>
+      <strong>Controllable Video Generation: A Survey</strong>
     </p>
     <p>Yue Ma, Kunyu Feng, Zhongyuan Hu, Xinyu Wang, <strong>Yucheng WANG</strong>, Mingzhe Zheng, Bingyuan Wang, Qinghe Wang, Xuanhua He, Hongfa Wang, Chenyang Zhu, Hongyu Liu, Yingqing He, Zeyu Wang, Zhifeng Li, Xiu Li, Sirui Han, Yike Guo, Wei Liu, Dan Xu, Linfeng Zhang, Qifeng Chen</p>
     <p>
@@ -66,9 +66,41 @@ author_profile: true
       /
       <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation"><strong>Code</strong></a>
     </p>
-    <ul>
-      <li>A systematic survey of controllable video generation methods and control signals.</li>
-      <li>Covers single-condition, multi-condition, and universal controllable generation.</li>
-    </ul>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-text">
+    <video class="pub-teaser" autoplay loop muted playsinline controls>
+      <source src="/images/pubs/copart.mp4" type="video/mp4">
+    </video>
+    <p class="pub-title-row">
+      <span class="pub-venue">ICCV 2025</span>
+      <strong>From One to More: Contextual Part Latents for 3D Generation</strong>
+    </p>
+    <p>Shaocong Dong, Lihe Ding, Xiao Chen, Yaokun Li, Yuxin Wang, <strong>Yucheng WANG</strong>, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu</p>
+    <p>
+      <a href="https://arxiv.org/abs/2507.08772"><strong>Paper</strong></a>
+      /
+      <a href="https://hkdsc.github.io/project/copart/"><strong>Project</strong></a>
+      /
+      <a href="https://github.com/hkdsc/copart"><strong>Code</strong></a>
+      /
+      <a href="https://huggingface.co/datasets/dscdyc/partverse"><strong>Dataset</strong></a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-text">
+    <img class="pub-teaser" src="/images/pubs/MoDiT.png" alt="MoDiT teaser">
+    <p class="pub-title-row">
+      <span class="pub-venue">Thesis</span>
+      <strong>MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation</strong>
+    </p>
+    <p><strong>Yucheng WANG</strong>, Dan Xu</p>
+    <p>
+      <a href="https://arxiv.org/abs/2507.05092"><strong>Paper</strong></a>
+    </p>
   </div>
 </div>
