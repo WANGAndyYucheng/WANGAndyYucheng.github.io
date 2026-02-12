@@ -13,7 +13,7 @@ author_profile: true
   .pub-teaser {
     float: right;
     width: 400px;
-    max-width: 35%;
+    max-width: 37.5%;
     margin-right: 0;
     margin-top: 0.25rem;
     margin-left: 1rem;
@@ -28,13 +28,16 @@ author_profile: true
     margin: 0.15rem 0 0.55rem 0;
   }
   .pub-title-row {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
     margin: 0.15rem 0 0.55rem 0;
-  }
-  .pub-title-row .pub-venue {
-    margin-bottom: 0.45rem;
   }
   .pub-title-row strong {
     display: block;
+    flex-basis: 100%;
+    margin-top: 0.45rem;
   }
   .pub-venue {
     display: inline-block;
@@ -44,6 +47,19 @@ author_profile: true
     padding: 0.12rem 0.45rem;
     border-radius: 2px;
   }
+  .pub-keyword {
+    display: inline-block;
+    font-size: 0.8rem;
+    color: #fff;
+    padding: 0.1rem 0.4rem;
+    border-radius: 999px;
+    line-height: 1.2;
+  }
+  .kw-video { background: #8b5cf6; }
+  .kw-diffusion { background: #06b6d4; }
+  .kw-talking-head { background: #f59e0b; }
+  .kw-3d { background: #16a34a; }
+  .kw-dataset { background: #ec4899; }
   @media (max-width: 760px) {
     .pub-teaser {
       float: none;
@@ -60,7 +76,9 @@ author_profile: true
   <div class="pub-card-text">
     <img class="pub-teaser" src="/images/pubs/CVGAS.png" alt="Controllable Video Generation teaser">
     <p class="pub-title-row">
-      <span class="pub-venue">arXiv 2025</span>
+      <span class="pub-venue">Survey</span>
+      <span class="pub-keyword kw-video">Video Gen</span>
+      <span class="pub-keyword kw-diffusion">Diffusion</span>
       <strong>Controllable Video Generation: A Survey</strong>
     </p>
     <p>Yue Ma, Kunyu Feng, Zhongyuan Hu, Xinyu Wang, <strong>Yucheng WANG</strong>, Mingzhe Zheng, Bingyuan Wang, Qinghe Wang, Xuanhua He, Hongfa Wang, Chenyang Zhu, Hongyu Liu, Yingqing He, Zeyu Wang, Zhifeng Li, Xiu Li, Sirui Han, Yike Guo, Wei Liu, Dan Xu, Linfeng Zhang, Qifeng Chen</p>
@@ -74,11 +92,29 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-text">
+    <img class="pub-teaser" src="/images/pubs/MoDiT.png" alt="MoDiT teaser">
+    <p class="pub-title-row">
+      <span class="pub-venue">UG Thesis</span>
+      <span class="pub-keyword kw-video">Video Gen</span>
+      <span class="pub-keyword kw-diffusion">Diffusion</span>
+      <strong>Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation</strong>
+    </p>
+    <p><strong>Yucheng WANG</strong>, Dan Xu</p>
+    <p>
+      <a href="https://arxiv.org/abs/2507.05092"><strong>Paper</strong></a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-text">
     <video class="pub-teaser" autoplay loop muted playsinline controls>
       <source src="/images/pubs/copart.mp4" type="video/mp4">
     </video>
     <p class="pub-title-row">
       <span class="pub-venue">ICCV 2025</span>
+      <span class="pub-keyword kw-3d">3D Generation</span>
+      <span class="pub-keyword kw-diffusion">Diffusion</span>
       <strong>From One to More: Contextual Part Latents for 3D Generation</strong>
     </p>
     <p>Shaocong Dong, Lihe Ding, Xiao Chen, Yaokun Li, Yuxin Wang, <strong>Yucheng WANG</strong>, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu</p>
@@ -90,20 +126,6 @@ author_profile: true
       <a href="https://github.com/hkdsc/copart"><strong>Code</strong></a>
       /
       <a href="https://huggingface.co/datasets/dscdyc/partverse"><strong>Dataset</strong></a>
-    </p>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-card-text">
-    <img class="pub-teaser" src="/images/pubs/MoDiT.png" alt="MoDiT teaser">
-    <p class="pub-title-row">
-      <span class="pub-venue">Thesis</span>
-      <strong>MoDiT: Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation</strong>
-    </p>
-    <p><strong>Yucheng WANG</strong>, Dan Xu</p>
-    <p>
-      <a href="https://arxiv.org/abs/2507.05092"><strong>Paper</strong></a>
     </p>
   </div>
 </div>
