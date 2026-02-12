@@ -13,7 +13,7 @@ author_profile: true
   .pub-teaser {
     float: right;
     width: 400px;
-    max-width: 40%;
+    max-width: 35%;
     margin-right: 0;
     margin-top: 0.25rem;
     margin-left: 1rem;
