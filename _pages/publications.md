@@ -12,8 +12,8 @@ author_profile: true
   }
   .pub-teaser {
     float: right;
-    width: 380px;
-    max-width: 46%;
+    width: 220px;
+    max-width: 32%;
     margin-right: 0;
     margin-top: 0.25rem;
     margin-left: 1rem;
@@ -55,20 +55,20 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-text">
-    <img class="pub-teaser" src="/images/ETH.png" alt="FreeEvent teaser">
+    <img class="pub-teaser" src="/images/pubs/CVGAS.png" alt="Controllable Video Generation teaser">
     <p class="pub-title-row">
-      <span class="pub-venue">ICML 2025</span>
-      <a href="https://arxiv.org/abs/2410.02483"><strong>Event-Customized Image Generation</strong></a>
+      <span class="pub-venue">arXiv 2025</span>
+      <strong>Controllable Video Generation: A Survey</strong></a>
     </p>
-    <p><strong>Zhen Wang</strong>, Yilei Jiang, Dong Zheng, Jun Xiao, Long Chen</p>
+    <p>Yue Ma, Kunyu Feng, Zhongyuan Hu, Xinyu Wang, <strong>Yucheng WANG</strong>, Mingzhe Zheng, Bingyuan Wang, Qinghe Wang, Xuanhua He, Hongfa Wang, Chenyang Zhu, Hongyu Liu, Yingqing He, Zeyu Wang, Zhifeng Li, Xiu Li, Sirui Han, Yike Guo, Wei Liu, Dan Xu, Linfeng Zhang, Qifeng Chen</p>
     <p>
-      <a href="https://arxiv.org/pdf/2410.02483"><strong>Paper</strong></a>
+      <a href="https://arxiv.org/abs/2507.16869"><strong>Paper</strong></a>
       /
-      <a href="https://github.com/HKUST-LongGroup/FreeEvent/"><strong>Code</strong></a>
+      <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation"><strong>Code</strong></a>
     </p>
     <ul>
-      <li>Customize your event (actions, poses, relations and interactions) with only one single image!</li>
-      <li>Training-free, Plug-and-Play and Effective.</li>
+      <li>A systematic survey of controllable video generation methods and control signals.</li>
+      <li>Covers single-condition, multi-condition, and universal controllable generation.</li>
     </ul>
   </div>
 </div>

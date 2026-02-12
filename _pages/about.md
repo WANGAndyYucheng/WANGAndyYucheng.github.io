@@ -10,7 +10,46 @@ redirect_from:
 
 I'm a second-year Ph.D. student advised by [Prof. Dan Xu](https://www.danxurgb.net) at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to work with [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) on 3D gaze estimation and eye modeling.
 
-My research centers on human-centric computer vision within the broader domain of computer vision and generative AI. Specifically, I am interested in **human-centric reconstruction** and **controllable image/video editing**. Feel free to connect!
+My research centers on human-centric computer vision within the broader domain of computer vision and generative AI. Specifically, I am interested in **Controllable** and **Human-centric** image/video generation. Feel free to reach out for discussions and collaborations.
+
+<style>
+  .about-entry {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    margin-bottom: 12px;
+  }
+
+  .about-entry-text {
+    flex: 1 1 auto;
+    min-width: 0;
+  }
+
+  .about-entry-text h3 {
+    margin-top: 0;
+    margin-bottom: 8px;
+  }
+
+  .about-entry-text ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .about-entry-icon {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    flex: 0 0 100px;
+  }
+
+  @media (max-width: 768px) {
+    .about-entry {
+      align-items: flex-start;
+      gap: 12px;
+    }
+  }
+</style>
 
 ## 🗞️ News
 
@@ -20,26 +59,41 @@ My research centers on human-centric computer vision within the broader domain o
 - **Sep 2024**: I’ve started my Ph.D. in Computer Science at HKUST advised by [Prof. Dan Xu](https://www.danxurgb.net).  
 - **Jun 2024**: I’ve graduated from HKUST with the [Academic Achievement Medal](https://registry.hkust.edu.hk/academic-achievement-medal). Thank you all my mentors and friends!  
 
-## 🎓 Education 
+## 🎓 Education
 
-<img src="images/HKUST.png" width="100" height="100" style="float: right; margin-right: 0px; margin-top: 15px"> 
+<div class="about-entry">
+  <div class="about-entry-text">
+    <h3>HKUST (2020-2024)</h3>
+    <ul>
+      <li>Bachelor of Science (BSc), Computer Science</li>
+      <li>Bachelor of Engineering (BEng), Electronic Engineering</li>
+    </ul>
+  </div>
+  <img class="about-entry-icon" src="images/HKUST.png" alt="HKUST icon">
+</div>
 
-### The Hong Kong University of Science and Technology (2020–2024)
-- Bachelor of Science (BSc), Computer Science  
-- Bachelor of Engineering (BEng), Electronic Engineering  
-
-<img src="images/ETH.png" width="100" height="100" style="float: right; margin-right: 0px;"> 
-
-### ETH Zürich (Feb–Sep 2023)
-- Exchange student, Computer Science  
+<div class="about-entry">
+  <div class="about-entry-text">
+    <h3>ETH Zurich (2023 Spring)</h3>
+    <ul>
+      <li>Exchange student, Computer Science</li>
+    </ul>
+  </div>
+  <img class="about-entry-icon" src="images/ETH.png" alt="ETH icon">
+</div>
 
 ## 💼 Internship
 
-<img src="images/SmartMore.png" width="100" height="100" style="float: right; margin-right: 0px;"> 
-
-### SmartMore (Nov 2023 – Jan 2024)  
-- Mentored by [Dr. Yuechen Zhang](https://julianjuaner.github.io/) and [Dr. Yukang Chen](https://yukangchen.com/) 
-- Research on LVLM for super resolution and LVLM pruning.  
+<div class="about-entry">
+  <div class="about-entry-text">
+    <h3>SmartMore (Nov 2023-Jan 2024)</h3>
+    <ul>
+      <li>Mentored by <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a></li>
+      <li>Research on LVLM for super resolution and LVLM pruning.</li>
+    </ul>
+  </div>
+  <img class="about-entry-icon" src="images/SmartMore.png" alt="SmartMore icon">
+</div>
 
 ## 🏅 Selected Awards
 
@@ -53,6 +107,7 @@ My research centers on human-centric computer vision within the broader domain o
 - National Olympiad in Informatics in Provinces (NOIP) – First Prize (2018)  
 
 ## 👨‍🏫 Teaching Assistant
+
 - 25-26 Spring: Deep 2D and 3D Visual Scene Understanding
 - 24-25 Spring: Object-Oriented Programming and Data Structures
 
