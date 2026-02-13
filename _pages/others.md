@@ -6,15 +6,15 @@ redirect_from:
   - /others
 ---
 
-I have actively engaged in various non-academic roles during my undergraduate years. Here is a list of them:
+I have actively engaged in various roles during my undergraduate years. Here is a list of them:
 
-- **UGTA**, COMP2011 Programming with C++
-- **Peer Counsellor**, Counseling and Wellness Center
+- **Senior Peer Counsellor**, Counseling and Wellness Center
+- **Student Helper**, Mainland UG Admissions Interview
 - **Peer Mentor**, COMP & CPEG Mentor-Mentee Scheme
 - **Peer Mentor**, Mainland Students and Scholars Society, UG Section
-- **Student Helper**, Mainland UG Admissions Interview
+- **UGTA**, COMP2011 Programming with C++
 
-Strong passions for basketball, wind instruments, classical Sci-Fi and comics. 
+Strong passions for Basketball, Wind Instrument, and Science&Fantasy Fiction. 
 
 「Home~ My Song Diary」 by Priscilla Ahn is my recent favorite album!
 
