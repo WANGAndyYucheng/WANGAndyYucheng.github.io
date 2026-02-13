@@ -86,7 +86,7 @@ My research centers on human-centric computer vision within the broader domain o
 
 <div class="about-entry">
   <div class="about-entry-text">
-    <h3>SmartMore, Nov 2023-Jan 2024</h3>
+    <h3>SmartMore @ HKSTP, Nov 2023-Jan 2024</h3>
     <ul>
       <li>Mentored by <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a></li>
       <li>Research on LVLM for super resolution and LVLM pruning.</li>
@@ -97,7 +97,7 @@ My research centers on human-centric computer vision within the broader domain o
 
 <div class="about-entry">
   <div class="about-entry-text">
-    <h3>Career Hackers, Jun 2022-Aug 2022</h3>
+    <h3>Career Hackers @ HKSTP, Jun 2022-Aug 2022</h3>
     <ul>
       <li>Mentored by <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></li>
       <li>Served as a Backend Developer, building backend services and APIs.</li>
