@@ -95,6 +95,17 @@ My research centers on human-centric computer vision within the broader domain o
   <img class="about-entry-icon" src="images/SmartMore.png" alt="SmartMore icon">
 </div>
 
+<div class="about-entry">
+  <div class="about-entry-text">
+    <h3>Career Hackers, Jun 2022-Aug 2022</h3>
+    <ul>
+      <li>Mentored by <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></li>
+      <li>Served as a Backend Developer, building backend services and APIs.</li>
+    </ul>
+  </div>
+  <img class="about-entry-icon" src="images/CH.png" alt="Career Hackers icon">
+</div>
+
 ## 🏅 Selected Awards
 
 - Hong Kong PhD Fellowship Scheme, 2024  
