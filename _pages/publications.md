@@ -119,25 +119,7 @@ author_profile: true
 
 <div class="pub-card">
   <div class="pub-card-text">
-    <img class="pub-teaser" src="/images/pubs/MoDiT.png" alt="MoDiT teaser">
-    <p class="pub-title-row">
-      <span class="pub-venue">UG Thesis</span>
-      <span class="pub-keyword kw-video">Video Gen</span>
-      <span class="pub-keyword kw-diffusion">Diffusion</span>
-      <strong>Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation</strong>
-    </p>
-    <p><strong>Yucheng WANG</strong>, Dan Xu</p>
-    <p>
-      <a href="https://arxiv.org/abs/2507.05092"><strong>Paper</strong></a>
-    </p>
-  </div>
-</div>
-
-<div class="pub-card">
-  <div class="pub-card-text">
-    <video class="pub-teaser" autoplay loop muted playsinline controls>
-      <source src="/images/pubs/copart.mp4" type="video/mp4">
-    </video>
+    <img class="pub-teaser" src="/images/pubs/Copart.png" alt="Copart teaser">
     <p class="pub-title-row">
       <span class="pub-venue">ICCV 2025</span>
       <span class="pub-keyword kw-3d">3D Generation</span>
@@ -153,6 +135,22 @@ author_profile: true
       <a href="https://github.com/hkdsc/copart"><strong>Code</strong></a>
       /
       <a href="https://huggingface.co/datasets/dscdyc/partverse"><strong>Dataset</strong></a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-text">
+    <img class="pub-teaser" src="/images/pubs/MoDiT.png" alt="MoDiT teaser">
+    <p class="pub-title-row">
+      <span class="pub-venue">UG Thesis</span>
+      <span class="pub-keyword kw-video">Video Gen</span>
+      <span class="pub-keyword kw-diffusion">Diffusion</span>
+      <strong>Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation</strong>
+    </p>
+    <p><strong>Yucheng WANG</strong>, Dan Xu</p>
+    <p>
+      <a href="https://arxiv.org/abs/2507.05092"><strong>Paper</strong></a>
     </p>
   </div>
 </div>
