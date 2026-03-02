@@ -8,7 +8,7 @@ author_profile: true
 
 <style>
   .pub-card {
-    margin: 1.25rem 0 1.75rem 0;
+    margin: 1.25rem 0 2.6rem 0;
   }
   .pub-teaser {
     float: right;
