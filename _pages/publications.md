@@ -13,7 +13,11 @@ author_profile: true
   .pub-teaser {
     float: right;
     width: 400px;
+    aspect-ratio: 16 / 9;
     max-width: 37.5%;
+    object-fit: contain;
+    object-position: center;
+    background: #fff;
     margin-right: 0;
     margin-top: 0.25rem;
     margin-left: 1rem;
