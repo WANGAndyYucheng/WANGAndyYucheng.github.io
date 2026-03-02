@@ -156,7 +156,7 @@
       (<span style="font-weight:bold; background: linear-gradient(to right, #7c3aed, #2563eb); -webkit-background-clip: text; color: transparent;">CARE-Edit</span>)
       that aligns model computation with specific editing competencies. At its core, a lightweight latent-attention router assigns encoded diffusion tokens to four specialized experts&mdash;Text, Mask, Reference, and Base&mdash;based on multi-modal conditions and diffusion timesteps:
       (i) a <span style="font-weight:bold;">Mask Repaint</span> module first refines coarse user-defined masks for precise spatial guidance;
-      (ii) the router applies <span style="font-weight:bold;">sparse top-K selection</span> to dynamically allocate computation to the most relevant experts;
+      (ii) the router applies <span style="font-weight:bold;">Top-K selection</span> to dynamically allocate computation to the most relevant experts;
       (iii) a <span style="font-weight:bold;">Latent Mixture</span> module subsequently fuses expert outputs, coherently integrating semantic, spatial, and stylistic information.
       <br><br>
     </p>
@@ -169,8 +169,8 @@
     <br>
     <p style="color:#333333;">
       <span style="font-weight:bold; background: linear-gradient(to right, #7c3aed, #2563eb); -webkit-background-clip: text; color: transparent;">CARE-Edit</span> introduces condition‑aware specialized experts within the frozen DiT backbone.
-      Given multimodal conditions, inputs are tokenized and projected to heterogeneous expert branches.
-      The router assigns confidence scores and selects the top‑K experts to process each token.
+      Given multimodal conditions, inputs are tokenized and projected to <span style="font-weight:bold;">heterogeneous</span> expert branches.
+      The router assigns confidence scores and selects the <span style="font-weight:bold;">Top‑K</span> experts to process each token.
       Expert outputs are normalized, modulated, and fused through the <span style="font-weight:bold;">Latent Mixture</span> module,
       yielding denoised representation refined by <span style="font-weight:bold;">Mask Repaint</span>.
       Only lightweight adapters, the router, and fusion layers are trainable.
