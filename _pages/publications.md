@@ -56,6 +56,7 @@ author_profile: true
     line-height: 1.2;
   }
   .kw-video { background: #8b5cf6; }
+  .kw-image-editing { background: #f97316; }
   .kw-diffusion { background: #06b6d4; }
   .kw-talking-head { background: #f59e0b; }
   .kw-3d { background: #16a34a; }
@@ -86,6 +87,28 @@ author_profile: true
       <a href="https://arxiv.org/abs/2507.16869"><strong>Paper</strong></a>
       /
       <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation"><strong>Code</strong></a>
+    </p>
+  </div>
+</div>
+
+<div class="pub-card">
+  <div class="pub-card-text">
+    <img class="pub-teaser" src="/images/pubs/CARE-Edit.png" alt="CARE-Edit teaser">
+    <p class="pub-title-row">
+      <span class="pub-venue">CVPR 2026</span>
+      <span class="pub-keyword kw-image-editing">Image Editing</span>
+      <span class="pub-keyword kw-diffusion">Diffusion</span>
+      <strong>CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</strong>
+    </p>
+    <p><strong>Yucheng WANG</strong>*, Zedong Wang*, Yuetong Wu, Yue Ma, Dan Xu</p>
+    <p>
+      <a href="#"><strong>Paper</strong></a>
+      /
+      <a href="https://wangandyyucheng.github.io/CARE-Edit/"><strong>Project</strong></a>
+      /
+      <a href="https://github.com/WANGAndyYucheng/CARE-Edit"><strong>Code</strong></a>
+      /
+      <a href="#"><strong>Dataset</strong></a>
     </p>
   </div>
 </div>
