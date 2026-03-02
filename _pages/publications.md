@@ -95,6 +95,7 @@ author_profile: true
   </div>
 </div>
 
+
 <div class="pub-card">
   <div class="pub-card-text">
     <img class="pub-teaser" src="/images/pubs/CARE-Edit.png" alt="CARE-Edit teaser">
@@ -110,12 +111,13 @@ author_profile: true
       /
       <a href="https://wangandyyucheng.github.io/CARE-Edit/"><strong>Project</strong></a>
       /
-      <a href="https://github.com/WANGAndyYucheng/CARE-Edit"><strong>Code</strong></a>
+      <a href="#"><strong>Code</strong></a>
       /
       <a href="#"><strong>Dataset</strong></a>
     </p>
   </div>
 </div>
+
 
 <div class="pub-card">
   <div class="pub-card-text">
@@ -138,6 +140,7 @@ author_profile: true
     </p>
   </div>
 </div>
+
 
 <div class="pub-card">
   <div class="pub-card-text">
