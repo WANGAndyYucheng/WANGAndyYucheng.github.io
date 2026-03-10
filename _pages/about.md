@@ -59,15 +59,15 @@ My research centers on human-centric computer vision within the broader domain o
 
 ## 🗞️ News
 
-<div class="news-scroll" markdown="1">
-
-- **Mar 2026**: One paper on **Image Editing** (*CARE-Edit*) accepted by CVPR 2026 and released on *[arXiv](https://arxiv.org/abs/2603.08589)*. Thanks to [Prof. Dan Xu](https://www.danxurgb.net) for his great help and all coauthors. Appreciate the dedication of [Zedong Wang](https://jacky1128.github.io/)! Code coming soon on *[GitHub](https://github.com/CARE-Edit/Code)*!
-- **Aug 2025**: One co-authored survey on **Controllable Video Generation** released on *[arXiv](https://arxiv.org/abs/2507.16869)*. Appreciate the dedication of [Yue Ma](https://mayuelala.github.io/)! Summary on *[Github](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)*.
-- **Jul 2025**: One co-authored paper on **3D Generation** accepted at ICCV 2025. Appreciate the dedication of [Shaocong Dong](https://hkdsc.github.io/)! Paper released on *[arXiv](https://arxiv.org/abs/2507.08772)*.
-- **Jul 2025**: One paper on **Talking Head Generation** released on *[arXiv](https://arxiv.org/abs/2507.05092)*.  
-- **Sep 2024**: I’ve started my Ph.D. in Computer Science at HKUST advised by [Prof. Dan Xu](https://www.danxurgb.net).  
-- **Jun 2024**: I’ve graduated from HKUST with the [Academic Achievement Medal](https://registry.hkust.edu.hk/academic-achievement-medal). Thank you all my mentors and friends!  
-
+<div class="news-scroll">
+  <ul>
+    <li><strong>Mar 2026</strong>: One paper on <strong>Image Editing</strong> (<em>CARE-Edit</em>) accepted by CVPR 2026 and released on <em><a href="https://arxiv.org/abs/2603.08589">arXiv</a></em>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>! Code coming soon on <em><a href="https://github.com/CARE-Edit/Code">GitHub</a></em>!</li>
+    <li><strong>Aug 2025</strong>: One co-authored survey on <strong>Controllable Video Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>! Summary on <em><a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation">Github</a></em>.</li>
+    <li><strong>Jul 2025</strong>: One co-authored paper on <strong>3D Generation</strong> accepted at ICCV 2025. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>! Paper released on <em><a href="https://arxiv.org/abs/2507.08772">arXiv</a></em>.</li>
+    <li><strong>Jul 2025</strong>: One paper on <strong>Talking Head Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.05092">arXiv</a></em>.</li>
+    <li><strong>Sep 2024</strong>: I’ve started my Ph.D. in Computer Science at HKUST advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a>.</li>
+    <li><strong>Jun 2024</strong>: I’ve graduated from HKUST with the <a href="https://registry.hkust.edu.hk/academic-achievement-medal">Academic Achievement Medal</a>. Thank you all my mentors and friends!</li>
+  </ul>
 </div>
 
 ## 🎓 Education
