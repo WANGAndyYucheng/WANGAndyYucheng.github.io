@@ -59,7 +59,7 @@ My research centers on human-centric computer vision within the broader domain o
 
 ## 🗞️ News
 
-<div class="news-scroll">
+<div class="news-scroll" markdown="1">
 
 - **Mar 2026**: One paper on **Image Editing** (*CARE-Edit*) accepted by CVPR 2026 and released on *[arXiv](https://arxiv.org/abs/2603.08589)*. Thanks to [Prof. Dan Xu](https://www.danxurgb.net) for his great help and all coauthors. Appreciate the dedication of [Zedong Wang](https://jacky1128.github.io/)! Code coming soon on *[GitHub](https://github.com/CARE-Edit/Code)*!
 - **Aug 2025**: One co-authored survey on **Controllable Video Generation** released on *[arXiv](https://arxiv.org/abs/2507.16869)*. Appreciate the dedication of [Yue Ma](https://mayuelala.github.io/)! Summary on *[Github](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)*.
