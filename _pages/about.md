@@ -46,7 +46,7 @@ My research centers on human-centric computer vision within the broader domain o
   .news-scroll {
     max-height: 300px;
     overflow-y: auto;
-    padding-right: 8px;
+    padding-right: 70px;
   }
 
   @media (max-width: 768px) {
