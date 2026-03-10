@@ -107,13 +107,13 @@ author_profile: true
     </p>
     <p><strong>Yucheng WANG</strong>*, Zedong Wang*, Yuetong Wu, Yue Ma, Dan Xu</p>
     <p>
-      <a href="#"><strong>Paper</strong></a>
+      <a href="https://arxiv.org/abs/2603.08589"><strong>Paper</strong></a>
       /
       <a href="https://wangandyyucheng.github.io/CARE-Edit/"><strong>Project</strong></a>
       /
-      <a href="#"><strong>Code</strong></a>
+      <a href="https://github.com/WANGAndyYucheng/CARE-Edit"><strong>Code</strong></a>
       /
-      <a href="#"><strong>Dataset</strong></a>
+      <a href="https://huggingface.co/papers/2603.08589"><strong>Model</strong></a>
     </p>
   </div>
 </div>
