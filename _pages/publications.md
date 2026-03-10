@@ -109,9 +109,9 @@ author_profile: true
     <p>
       <a href="https://arxiv.org/abs/2603.08589"><strong>Paper</strong></a>
       /
-      <a href="https://wangandyyucheng.github.io/CARE-Edit/"><strong>Project</strong></a>
+      <a href="https://care-edit.github.io/"><strong>Project</strong></a>
       /
-      <a href="https://github.com/WANGAndyYucheng/CARE-Edit"><strong>Code</strong></a>
+      <a href="https://github.com/CARE-Edit/Code"><strong>Code</strong></a>
       /
       <a href="https://huggingface.co/papers/2603.08589"><strong>Model</strong></a>
     </p>
