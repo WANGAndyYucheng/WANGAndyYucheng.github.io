@@ -126,10 +126,13 @@ My research centers on human-centric computer vision within the broader domain o
 - HKSAR Government Scholarship Fund - Reaching Out Award, 2023
 - The Joseph Lau Luen Hung Charitable Trust Scholarship, 2021
 
-## 👨‍🏫 Teaching Assistant
+## 🤝 Services
 
-- Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring
-- Object-Oriented Programming and Data Structures, 2024-2025 Spring
+- **Reviewer**
+  - IJCV, 2026
+- **Teaching Assistant**
+  - Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring
+  - Object-Oriented Programming and Data Structures, 2024-2025 Spring
 
 ## 👀 Visitors
 
