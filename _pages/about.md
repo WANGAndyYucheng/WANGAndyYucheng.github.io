@@ -132,6 +132,10 @@ My research centers on human-centric computer vision within the broader domain o
 - Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring
 - Object-Oriented Programming and Data Structures, 2024-2025 Spring
 
+## 📝 Reviewer
+
+- International Journal of Computer Vision (IJCV)
+
 ## 👀 Visitors
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=240&t=tt&d=CegsBXipognXpkc6GUQVYl4fAAwYxrhfjHCiMaDQwvQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
