@@ -1,20 +1,24 @@
 /* Site accent — lighter academic blue (main content only) */
 
 .page__content a,
+.page__content a:visited,
+.page__content a:active,
 .archive a,
-.toc a {
+.archive a:visited,
+.archive a:active,
+.toc a,
+.toc a:visited,
+.toc a:active,
+.paper-box .paper-box-text a:visited,
+.paper-box .paper-box-text a:active {
   color: #1460b3;
 }
 
 .page__content a:hover,
 .archive a:hover,
-.toc a:hover {
+.toc a:hover,
+.paper-box .paper-box-text a:hover {
   color: #0f508f;
-}
-
-.page__content a:visited,
-.archive a:visited {
-  color: #4a7eb8;
 }
 
 /* Sidebar profile links: keep theme default (inherit text color) */
@@ -24,7 +28,8 @@
 .author__urls a:active,
 .sidebar .author__urls a,
 .sidebar .author__urls a:hover,
-.sidebar .author__urls a:visited {
+.sidebar .author__urls a:visited,
+.sidebar .author__urls a:active {
   color: inherit;
 }
 

@@ -61,7 +61,9 @@ author_profile: true
     line-height: 1.3;
   }
 
-  .paper-box .paper-box-text p:first-child a {
+  .paper-box .paper-box-text p:first-child a,
+  .paper-box .paper-box-text p:first-child a:visited,
+  .paper-box .paper-box-text p:first-child a:active {
     color: #1460b3;
     font-weight: 500;
   }
@@ -70,7 +72,9 @@ author_profile: true
     color: #0f508f;
   }
 
-  .paper-box .paper-box-text a {
+  .paper-box .paper-box-text a,
+  .paper-box .paper-box-text a:visited,
+  .paper-box .paper-box-text a:active {
     color: #1460b3;
   }
 

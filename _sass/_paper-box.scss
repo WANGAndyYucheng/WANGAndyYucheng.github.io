@@ -54,6 +54,11 @@
         color: $academic-blue;
         font-weight: 500;
 
+        &:visited,
+        &:active {
+          color: $academic-blue;
+        }
+
         &:hover {
           color: $academic-blue-dark;
         }
@@ -62,6 +67,11 @@
 
     a {
       color: $academic-blue;
+
+      &:visited,
+      &:active {
+        color: $academic-blue;
+      }
 
       &:hover {
         color: $academic-blue-dark;
