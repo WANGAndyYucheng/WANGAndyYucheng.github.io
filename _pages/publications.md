@@ -115,24 +115,6 @@ author_profile: true
   }
 </style>
 
-<p>(<sup>*</sup>equal contribution)</p>
-
-<!-- Controllable Video Generation Survey -->
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">Survey</div>
-      <img src="/images/pubs/CVGAS.png" alt="Controllable Video Generation" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><a href="https://arxiv.org/abs/2507.16869">Controllable Video Generation: A Survey</a></p>
-    <p>Yue Ma<sup>*</sup>, Kunyu Feng<sup>*</sup>, Zhongyuan Hu<sup>*</sup>, Xinyu Wang<sup>*</sup>, <strong>Yucheng WANG</strong>, Mingzhe Zheng, Bingyuan Wang, Qinghe Wang, Xuanhua He, Hongfa Wang, Chenyang Zhu, Hongyu Liu, Yingqing He, Zeyu Wang, Zhifeng Li, Xiu Li, Sirui Han, Yike Guo, Wei Liu, Dan Xu, Linfeng Zhang, Qifeng Chen <br></p>
-    <p><a href="https://arxiv.org/abs/2507.16869">Paper</a>, <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation">Code</a> <br></p>
-    <p>Survey on controllable video generation (arXiv), 2025</p>
-  </div>
-</div>
-
 <!-- CARE-Edit -->
 <div class="paper-box">
   <div class="paper-box-image">
@@ -149,6 +131,22 @@ author_profile: true
   </div>
 </div>
 
+<!-- EasyVFX -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">SIGGRAPH2026</div>
+      <img src="/images/pubs/teaser_vfx.png" alt="EasyVFX" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2605.22051">EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation</a></p>
+    <p>Yue Ma, Xu Ye, Qinghe Wang, <strong>Yucheng WANG</strong>, Hongyu Liu, Yinhan Zhang, Xinyu Wang, Yuanpeng Che, Shanhui Mo, Paul Liang, Fangneng Zhan, Qifeng Chen <br></p>
+    <p><a href="https://easy-vfx.github.io/">Project</a>, <a href="https://arxiv.org/abs/2605.22051">Paper</a>, <a href="https://github.com/mayuelala/EasyVFX">Code</a> <br></p>
+    <p>ACM SIGGRAPH 2026 Conference Proceedings (SIGGRAPH), 2026</p>
+  </div>
+</div>
+
 <!-- Copart -->
 <div class="paper-box">
   <div class="paper-box-image">
@@ -162,6 +160,22 @@ author_profile: true
     <p>Shaocong Dong<sup>*</sup>, Lihe Ding<sup>*</sup>, Xiao Chen, Yaokun Li, Yuxin Wang, <strong>Yucheng WANG</strong>, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu <br></p>
     <p><a href="https://arxiv.org/abs/2507.08772">Paper</a>, <a href="https://hkdsc.github.io/project/copart/">Project</a>, <a href="https://github.com/hkdsc/copart">Code</a>, <a href="https://huggingface.co/datasets/dscdyc/partverse">Dataset</a> <br></p>
     <p>International Conference on Computer Vision (ICCV), 2025</p>
+  </div>
+</div>
+
+<!-- Controllable Video Generation Survey -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">Survey</div>
+      <img src="/images/pubs/CVGAS.png" alt="Controllable Video Generation" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2507.16869">Controllable Video Generation: A Survey</a></p>
+    <p>Yue Ma<sup>*</sup>, Kunyu Feng<sup>*</sup>, Zhongyuan Hu<sup>*</sup>, Xinyu Wang<sup>*</sup>, <strong>Yucheng WANG</strong>, Mingzhe Zheng, Bingyuan Wang, Qinghe Wang, Xuanhua He, Hongfa Wang, Chenyang Zhu, Hongyu Liu, Yingqing He, Zeyu Wang, Zhifeng Li, Xiu Li, Sirui Han, Yike Guo, Wei Liu, Dan Xu, Linfeng Zhang, Qifeng Chen <br></p>
+    <p><a href="https://arxiv.org/abs/2507.16869">Paper</a>, <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation">Code</a> <br></p>
+    <p>Survey on controllable video generation (arXiv), 2025</p>
   </div>
 </div>
 
