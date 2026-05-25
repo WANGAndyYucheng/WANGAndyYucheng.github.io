@@ -64,10 +64,11 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-/* academic accent (publication badges, links) */
-$academic-blue              : #00369f;
-$academic-blue-dark         : #002a75;
-$academic-blue-muted        : #2d5a9e;
+/* academic accent (publication badges, links) — slightly lighter than #00369f */
+$academic-blue              : #1460b3;
+$academic-blue-dark         : #0f508f;
+$academic-blue-muted        : #4a7eb8;
+$academic-blue-badge        : #0d4da8;
 
 $info-color                 : $academic-blue;
 

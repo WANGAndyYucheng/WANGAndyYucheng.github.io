@@ -1,44 +1,51 @@
-/* Site-wide academic navy accent (matches publication badges) */
+/* Site accent — lighter academic blue (main content only) */
 
 .page__content a,
-.author__urls a:not(.btn),
-.sidebar a:not(.btn),
 .archive a,
 .toc a {
-  color: #00369f;
+  color: #1460b3;
 }
 
 .page__content a:hover,
-.author__urls a:not(.btn):hover,
-.sidebar a:not(.btn):hover,
 .archive a:hover,
 .toc a:hover {
-  color: #002a75;
+  color: #0f508f;
 }
 
 .page__content a:visited,
-.author__urls a:not(.btn):visited {
-  color: #2d5a9e;
+.archive a:visited {
+  color: #4a7eb8;
+}
+
+/* Sidebar profile links: keep theme default (inherit text color) */
+.author__urls a,
+.author__urls a:hover,
+.author__urls a:visited,
+.author__urls a:active,
+.sidebar .author__urls a,
+.sidebar .author__urls a:hover,
+.sidebar .author__urls a:visited {
+  color: inherit;
 }
 
 .masthead__menu-item a:hover,
 .masthead__menu-item--lg a:hover {
-  color: #00369f;
+  color: #1460b3;
 }
 
 .btn--info {
-  background-color: #00369f;
+  background-color: #1460b3;
 }
 
 .btn--info:hover {
-  background-color: #002a75;
+  background-color: #0f508f;
 }
 
 .notice--info {
-  border-color: #00369f;
-  background-color: #f4f7fc;
+  border-color: #1460b3;
+  background-color: #f4f8fc;
 }
 
 .notice--info .notice__title {
-  color: #00369f;
+  color: #1460b3;
 }
