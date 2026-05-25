@@ -143,7 +143,7 @@ author_profile: true
     <p><a href="https://arxiv.org/abs/2605.22051">EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation</a></p>
     <p>Yue Ma, Xu Ye, Qinghe Wang, <strong>Yucheng WANG</strong>, Hongyu Liu, Yinhan Zhang, Xinyu Wang, Yuanpeng Che, Shanhui Mo, Paul Liang, Fangneng Zhan, Qifeng Chen <br></p>
     <p><a href="https://easy-vfx.github.io/">Project</a>, <a href="https://arxiv.org/abs/2605.22051">Paper</a>, <a href="https://github.com/mayuelala/EasyVFX">Code</a> <br></p>
-    <p>ACM SIGGRAPH 2026 Conference Proceedings (SIGGRAPH), 2026</p>
+    <p>ACM SIGGRAPH Conference Proceedings (SIGGRAPH), 2026</p>
   </div>
 </div>
 
@@ -159,7 +159,7 @@ author_profile: true
     <p><a href="https://arxiv.org/abs/2507.08772">From One to More: Contextual Part Latents for 3D Generation</a></p>
     <p>Shaocong Dong<sup>*</sup>, Lihe Ding<sup>*</sup>, Xiao Chen, Yaokun Li, Yuxin Wang, <strong>Yucheng WANG</strong>, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu <br></p>
     <p><a href="https://arxiv.org/abs/2507.08772">Paper</a>, <a href="https://hkdsc.github.io/project/copart/">Project</a>, <a href="https://github.com/hkdsc/copart">Code</a>, <a href="https://huggingface.co/datasets/dscdyc/partverse">Dataset</a> <br></p>
-    <p>International Conference on Computer Vision (ICCV), 2025</p>
+    <p>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</p>
   </div>
 </div>
 
