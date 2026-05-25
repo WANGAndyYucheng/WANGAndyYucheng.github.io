@@ -47,10 +47,40 @@ author_profile: true
     order: 2;
     padding-left: 2em;
     min-width: 0;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #494e52;
   }
 
   .paper-box .paper-box-text p {
-    margin: 0.15rem 0 0.55rem 0;
+    margin: 0.12rem 0 0.45rem 0;
+  }
+
+  .paper-box .paper-box-text p:first-child {
+    font-size: 0.95rem;
+    line-height: 1.35;
+  }
+
+  .paper-box .paper-box-text p:first-child a {
+    color: #00369f;
+    font-weight: 500;
+  }
+
+  .paper-box .paper-box-text p:first-child a:hover {
+    color: #002a75;
+  }
+
+  .paper-box .paper-box-text a {
+    color: #00369f;
+  }
+
+  .paper-box .paper-box-text a:hover {
+    color: #002a75;
+  }
+
+  .paper-box .paper-box-text p:last-child {
+    font-size: 0.8125rem;
+    color: #6a737d;
   }
 
   .paper-box .badge {

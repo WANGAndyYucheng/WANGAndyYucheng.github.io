@@ -64,7 +64,12 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+/* academic accent (publication badges, links) */
+$academic-blue              : #00369f;
+$academic-blue-dark         : #002a75;
+$academic-blue-muted        : #2d5a9e;
+
+$info-color                 : $academic-blue;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +95,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : $academic-blue;
+$link-color-hover           : $academic-blue-dark;
+$link-color-visited         : $academic-blue-muted;
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $academic-blue;
 
 
 /*

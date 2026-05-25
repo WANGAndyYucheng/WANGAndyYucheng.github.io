@@ -1,0 +1,44 @@
+/* Site-wide academic navy accent (matches publication badges) */
+
+.page__content a,
+.author__urls a:not(.btn),
+.sidebar a:not(.btn),
+.archive a,
+.toc a {
+  color: #00369f;
+}
+
+.page__content a:hover,
+.author__urls a:not(.btn):hover,
+.sidebar a:not(.btn):hover,
+.archive a:hover,
+.toc a:hover {
+  color: #002a75;
+}
+
+.page__content a:visited,
+.author__urls a:not(.btn):visited {
+  color: #2d5a9e;
+}
+
+.masthead__menu-item a:hover,
+.masthead__menu-item--lg a:hover {
+  color: #00369f;
+}
+
+.btn--info {
+  background-color: #00369f;
+}
+
+.btn--info:hover {
+  background-color: #002a75;
+}
+
+.notice--info {
+  border-color: #00369f;
+  background-color: #f4f7fc;
+}
+
+.notice--info .notice__title {
+  color: #00369f;
+}

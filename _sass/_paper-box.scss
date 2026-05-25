@@ -38,9 +38,39 @@
     order: 2;
     padding-left: 2em;
     min-width: 0;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #494e52;
 
     p {
-      margin: 0.15rem 0 0.55rem 0;
+      margin: 0.12rem 0 0.45rem 0;
+    }
+
+    p:first-child {
+      font-size: 0.95rem;
+      line-height: 1.35;
+
+      a {
+        color: $academic-blue;
+        font-weight: 500;
+
+        &:hover {
+          color: $academic-blue-dark;
+        }
+      }
+    }
+
+    a {
+      color: $academic-blue;
+
+      &:hover {
+        color: $academic-blue-dark;
+      }
+    }
+
+    p:last-child {
+      font-size: 0.8125rem;
+      color: #6a737d;
     }
   }
 }
@@ -52,7 +82,7 @@
   margin-top: 0.5em;
   margin-left: -0.5em;
   color: #fff;
-  background-color: #00369f;
+  background-color: $academic-blue;
   font-size: 0.8em;
   z-index: 1;
 }
