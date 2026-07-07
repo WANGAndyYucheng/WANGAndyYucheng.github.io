@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WANG Andy Yucheng"
+title                    : "Wang Andy Yucheng"
 title_separator          : "-"
-name                     : &name "WANG Yucheng"
+name                     : &name "Yucheng Wang"
 description              : &description "Postgraduate @HKUST"
 url                      : https://WANGAndyYucheng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "WANG Yucheng"
+  name             : "Yucheng Wang"
   avatar           : "avatar_new.png"
   bio              : "Ph.D. Student @HKUST"
   location         : "Hong Kong SAR, China"
