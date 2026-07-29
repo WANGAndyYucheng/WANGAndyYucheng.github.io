@@ -125,7 +125,7 @@ redirect_from:
     <li><strong>Jul 2026</strong>: One co-authored <a href="https://living-lighting.github.io/">paper</a> (<em>LiveLight</em>) on <strong>Video Relighting</strong> accepted by ACM TOG 2026. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
     <li><strong>Mar 2026</strong>: One <a href="https://care-edit.github.io/">paper</a> (<em>CARE-Edit</em>) on <strong>Image Editing</strong> accepted by CVPR 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
     <li><strong>Mar 2026</strong>: One co-authored <a href="https://easy-vfx.github.io/">paper</a> (<em>EasyVFX</em>) on <strong>VFX Generation</strong> accepted by SIGGRAPH 2026. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Aug 2025</strong>: One co-authored survey</a> on <strong>Controllable Video Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Aug 2025</strong>: One co-authored survey on <strong>Controllable Video Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
     <li><strong>Jul 2025</strong>: One co-authored <a href="https://copart3d.github.io/">paper</a> (<em>CoPart</em>) on <strong>3D Generation</strong> accepted by ICCV 2025. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
     <li><strong>Jul 2025</strong>: One paper on <strong>Talking Head Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.05092">arXiv</a></em>.</li>
     <li><strong>Sep 2024</strong>: I’ve started my Ph.D. in Computer Science at HKUST advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a>.</li>
@@ -143,7 +143,7 @@ redirect_from:
         <span class="cv-date">2024 - Present</span>
       </div>
       <ul>
-        <li>Doctor of Philosophy (Ph.D.), Computer Science</li>
+        <li>Doctor of Philosophy, Computer Science</li>
       </ul>
     </div>
     <img class="cv-logo" src="/images/HKUST.png" alt="HKUST logo">
@@ -156,8 +156,8 @@ redirect_from:
         <span class="cv-date">2020 - 2024</span>
       </div>
       <ul>
-        <li>Bachelor of Science (BSc), Computer Science</li>
-        <li>Bachelor of Engineering (BEng), Electronic Engineering</li>
+        <li>Bachelor of Science, Computer Science</li>
+        <li>Bachelor of Engineering, Electronic Engineering (Double Major) </li>
       </ul>
     </div>
     <img class="cv-logo" src="/images/HKUST.png" alt="HKUST logo">
