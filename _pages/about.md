@@ -154,7 +154,7 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
 ## 💼 Internship
 
 <div class="cv-list">
-  <div class="cv-item">
+  <!-- <div class="cv-item">
     <div class="cv-body">
       <div class="cv-head">
         <span class="cv-title">Kling AI, Kuaishou Technology</span>
@@ -165,7 +165,7 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
       </ul>
     </div>
     <img class="cv-logo" src="/images/klingai_thumb.png" alt="Kling AI logo">
-  </div>
+  </div> -->
 
   <div class="cv-item">
     <div class="cv-body">
