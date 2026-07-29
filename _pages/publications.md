@@ -119,6 +119,22 @@ author_profile: true
   }
 </style>
 
+<!-- LiveLight -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">TOG2026</div>
+      <img src="/images/pubs/LiveLight.jpg" alt="LiveLight" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
+    <p>Yue Ma, Jiangming Wang, <strong>Yucheng WANG</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
+    <p><a href="https://living-lighting.github.io/">Project</a>, <a href="https://living-lighting.github.io/assets/LiveLight.pdf">Paper</a>, <a href="https://github.com/mayuelala/LiveLight">Code</a>, <a href="https://modelscope.cn/models/wjm1029/LiveLight">Model</a> <br></p>
+    <p>ACM Transactions on Graphics (TOG), 2026</p>
+  </div>
+</div>
+
 <!-- CARE-Edit -->
 <div class="paper-box">
   <div class="paper-box-image">
