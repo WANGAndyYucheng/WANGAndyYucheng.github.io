@@ -31,6 +31,7 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
 
   .cv-logo {
     flex: 0 0 100px;
+    align-self: center;
     width: 100px;
     height: 100px;
     object-fit: contain;
