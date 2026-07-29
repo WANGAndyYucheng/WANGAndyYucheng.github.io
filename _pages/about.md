@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year Ph.D. student advised by [Prof. Dan Xu](https://www.danxurgb.net) at The Hong Kong University of Science and Technology ([HKUST](https://hkust.edu.hk/)). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at [ETH Zurich](https://ethz.ch/en.html), where I was fortunate to work with [Dr. Danda Paudel](https://insait.ai/dr-danda-paudel/) on 3D gaze estimation and eye modeling.
-
-My research lies in Generative AI, with a focus on **Controllable** and **Efficient** image/video generation. More recently, I have been increasingly interested in how such generative models can serve for **Embodied Intelligence**. Feel free to reach out for discussions and collaborations.
+<div class="cv-text">
+  <p>I'm a second-year Ph.D. student advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a href="https://insait.ai/dr-danda-paudel/">Dr. Danda Paudel</a> on 3D gaze estimation and eye modeling.</p>
+  <p>My research lies in Generative AI, with a focus on <strong>Controllable</strong> and <strong>Efficient</strong> image/video generation. More recently, I have been increasingly interested in how such generative models can serve for <strong>Embodied Intelligence</strong>. Feel free to reach out for discussions and collaborations.</p>
+</div>
 
 <style>
   .cv-list {
@@ -72,10 +73,35 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
     margin: 0.15em 0;
   }
 
+  .cv-text {
+    margin-bottom: 1.5em;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #494e52;
+  }
+
+  .cv-line {
+    margin: 0.3em 0;
+  }
+
+  .cv-text p {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    margin: 0 0 1em 0;
+  }
+
   .news-scroll {
     max-height: 300px;
     overflow-y: auto;
     padding-right: 70px;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #494e52;
+  }
+
+  .news-scroll li {
+    margin: 0.3em 0;
+    font-size: 0.85rem;
   }
 
   @media (max-width: 768px) {
@@ -198,21 +224,27 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
 
 ## 🏅 Selected Awards
 
-- Hong Kong PhD Fellowship Scheme, 2024  
-- HKUST RedBird PhD Scholarship, 2024  
-- HKUST Academic Achievement Medal, 2024  
-- HKSAR Government Scholarship, 2022-2023
-- HKSAR Government Scholarship Fund - Reaching Out Award, 2023
-- The Joseph Lau Luen Hung Charitable Trust Scholarship, 2021
+<div class="cv-text">
+  <div class="cv-line">Hong Kong PhD Fellowship Scheme, 2024</div>
+  <div class="cv-line">HKUST RedBird PhD Scholarship, 2024</div>
+  <div class="cv-line">HKUST Academic Achievement Medal, 2024</div>
+  <div class="cv-line">HKSAR Government Scholarship, 2022-2023</div>
+  <div class="cv-line">HKSAR Government Scholarship Fund - Reaching Out Award, 2023</div>
+  <div class="cv-line">The Joseph Lau Luen Hung Charitable Trust Scholarship, 2021</div>
+</div>
 
 ## 👨‍🏫 Teaching Assistant
 
-- Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring
-- Object-Oriented Programming and Data Structures, 2024-2025 Spring
+<div class="cv-text">
+  <div class="cv-line">Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring</div>
+  <div class="cv-line">Object-Oriented Programming and Data Structures, 2024-2025 Spring</div>
+</div>
 
 ## 📝 Reviewer
 
-- International Journal of Computer Vision (IJCV)
+<div class="cv-text">
+  <div class="cv-line">International Journal of Computer Vision (IJCV)</div>
+</div>
 
 ## 👀 Visitors
 
