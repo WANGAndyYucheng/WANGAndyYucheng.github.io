@@ -124,7 +124,7 @@ author_profile: true
   <div class="paper-box-image">
     <div>
       <div class="badge">TOG2026</div>
-      <img src="/images/pubs/LiveLight.jpg" alt="LiveLight" width="100%">
+      <img src="/images/pubs/LiveLight.png" alt="LiveLight" width="100%">
     </div>
   </div>
   <div class="paper-box-text">
