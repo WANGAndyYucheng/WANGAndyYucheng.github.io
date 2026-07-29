@@ -42,24 +42,21 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
   }
 
   .cv-head {
-    display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    gap: 1em;
     margin-bottom: 0.4em;
   }
 
   .cv-title {
+    display: block;
     font-size: 1rem;
     font-weight: 700;
     color: #2f3338;
   }
 
   .cv-date {
-    flex: 0 0 auto;
+    display: block;
+    margin-top: 0.15em;
     font-size: 0.8rem;
     color: #7a8288;
-    white-space: nowrap;
   }
 
   .cv-body ul {
@@ -90,12 +87,6 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
       flex-basis: 64px;
       width: 64px;
       height: 64px;
-    }
-
-    .cv-head {
-      flex-direction: column;
-      align-items: flex-start;
-      gap: 0.15em;
     }
   }
 </style>
