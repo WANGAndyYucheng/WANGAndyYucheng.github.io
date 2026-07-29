@@ -21,7 +21,7 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
     display: flex;
     align-items: flex-start;
     gap: 1.25em;
-    padding: 1em 0;
+    padding: 0.55em 0;
     border-bottom: 1px solid #f2f3f3;
   }
 
@@ -30,10 +30,10 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
   }
 
   .cv-logo {
-    flex: 0 0 100px;
+    flex: 0 0 75px;
     align-self: center;
-    width: 100px;
-    height: 100px;
+    width: 75px;
+    height: 75px;
     object-fit: contain;
   }
 
@@ -81,13 +81,13 @@ My research lies in Generative AI, with a focus on **Controllable** and **Effici
   @media (max-width: 768px) {
     .cv-item {
       gap: 0.9em;
-      padding: 0.85em 0;
+      padding: 0.5em 0;
     }
 
     .cv-logo {
-      flex-basis: 64px;
-      width: 64px;
-      height: 64px;
+      flex-basis: 48px;
+      width: 48px;
+      height: 48px;
     }
   }
 </style>
