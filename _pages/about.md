@@ -45,11 +45,12 @@ redirect_from:
 
   .cv-head {
     margin-bottom: 0.4em;
+    font-size: 0.85rem;
   }
 
   .cv-title {
     display: block;
-    font-size: 1rem;
+    font-size: 0.85rem;
     font-weight: 700;
     color: #2f3338;
   }
