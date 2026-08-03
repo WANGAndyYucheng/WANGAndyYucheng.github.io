@@ -14,66 +14,6 @@ redirect_from:
 </div>
 
 <style>
-  .cv-list {
-    margin-bottom: 1.5em;
-  }
-
-  .cv-item {
-    display: flex;
-    align-items: flex-start;
-    gap: 1.25em;
-    padding: 0.55em 0;
-    border-bottom: 1px solid #f2f3f3;
-  }
-
-  .cv-item:last-child {
-    border-bottom: none;
-  }
-
-  .cv-logo {
-    flex: 0 0 75px;
-    align-self: center;
-    width: 75px;
-    height: 75px;
-    object-fit: contain;
-  }
-
-  .cv-body {
-    flex: 1 1 auto;
-    min-width: 0;
-  }
-
-  .cv-head {
-    margin-bottom: 0.4em;
-    font-size: 0.85rem;
-  }
-
-  .cv-title {
-    display: block;
-    font-size: 0.85rem;
-    font-weight: 700;
-    color: #2f3338;
-  }
-
-  .cv-date {
-    display: block;
-    margin-top: 0.15em;
-    font-size: 0.8rem;
-    color: #7a8288;
-  }
-
-  .cv-body ul {
-    margin: 0;
-    padding-left: 1.1em;
-    font-size: 0.85rem;
-    line-height: 1.55;
-    color: #494e52;
-  }
-
-  .cv-body li {
-    margin: 0.15em 0;
-  }
-
   .cv-text {
     margin-bottom: 1.5em;
     font-size: 0.85rem;
@@ -105,7 +45,81 @@ redirect_from:
     font-size: 0.85rem;
   }
 
-  ul.section-list {
+  /* Timeline (Education / Internship) — franklinz-style + logos */
+  ul.section-timeline {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1.5em 0;
+    position: relative;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #494e52;
+  }
+
+  ul.section-timeline::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0.35em;
+    bottom: 0.35em;
+    width: 2px;
+    background: linear-gradient(180deg, #1460b3 0%, #0f508f 100%);
+  }
+
+  ul.section-timeline > li {
+    position: relative;
+    display: flex;
+    align-items: flex-start;
+    gap: 1.25em;
+    padding: 0 0 1.35em 2.5em;
+    margin: 0 0 0.35em 0;
+    border-bottom: 1px solid #e8e8e8;
+  }
+
+  ul.section-timeline > li:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0.25em;
+  }
+
+  ul.section-timeline > li::before {
+    content: '';
+    position: absolute;
+    left: -6px;
+    top: 0.35em;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: #1460b3;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px #1460b3;
+    z-index: 1;
+  }
+
+  .tl-body {
+    flex: 1 1 auto;
+    min-width: 0;
+    font-size: 0.85rem;
+    line-height: 1.55;
+    color: #494e52;
+  }
+
+  .tl-body .tl-date {
+    display: block;
+    font-weight: 700;
+    color: #2f3338;
+    margin-bottom: 0.2em;
+  }
+
+  .tl-logo {
+    flex: 0 0 75px;
+    align-self: center;
+    width: 75px;
+    height: 75px;
+    object-fit: contain;
+  }
+
+  ul.section-honors {
     list-style: none;
     padding-left: 0;
     margin: 0 0 1.5em 0;
@@ -114,31 +128,39 @@ redirect_from:
     color: #494e52;
   }
 
-  ul.section-list > li {
-    padding: 0.55em 0;
-    margin: 0;
-    border-bottom: 1px solid #f2f3f3;
+  ul.section-honors > li {
+    background: #fafafa;
+    padding: 0.75em 1.1em;
+    margin: 0 0 0.55em 0;
+    border-radius: 6px;
+    border-left: 3px solid #c9a227;
     font-size: 0.85rem;
+    transition: background 0.2s ease, border-left-width 0.2s ease;
   }
 
-  ul.section-list > li:last-child {
-    border-bottom: none;
+  ul.section-honors > li:last-child {
+    margin-bottom: 0;
   }
 
-  ul.section-list > li em {
-    font-style: italic;
+  ul.section-honors > li:hover {
+    background: #f5f5f5;
+    border-left-width: 4px;
+  }
+
+  ul.section-honors > li em {
+    color: #a8891f;
     font-weight: 600;
-    color: #7a8288;
+    font-style: normal;
     font-size: 0.85rem;
   }
 
   @media (max-width: 768px) {
-    .cv-item {
+    ul.section-timeline > li {
       gap: 0.9em;
-      padding: 0.5em 0;
+      padding-bottom: 1.1em;
     }
 
-    .cv-logo {
+    .tl-logo {
       flex-basis: 48px;
       width: 48px;
       height: 48px;
@@ -163,100 +185,68 @@ redirect_from:
 
 ## 🎓 Education
 
-<div class="cv-list">
-  <div class="cv-item">
-    <div class="cv-body">
-      <div class="cv-head">
-        <span class="cv-title">The Hong Kong University of Science and Technology</span>
-        <span class="cv-date">2024 - Present</span>
-      </div>
-      <ul>
-        <li>Doctor of Philosophy, Computer Science</li>
-      </ul>
+<ul class="section-timeline">
+  <li>
+    <div class="tl-body">
+      <span class="tl-date">2024 - Present</span>
+      <strong>Doctor of Philosophy, Computer Science</strong> - The Hong Kong University of Science and Technology
     </div>
-    <img class="cv-logo" src="/images/HKUST.png" alt="HKUST logo">
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-body">
-      <div class="cv-head">
-        <span class="cv-title">The Hong Kong University of Science and Technology</span>
-        <span class="cv-date">2020 - 2024</span>
-      </div>
-      <ul>
-        <li>Bachelor of Science, Computer Science</li>
-        <li>Bachelor of Engineering, Electronic Engineering (Double Major)</li>
-      </ul>
+    <img class="tl-logo" src="/images/HKUST.png" alt="HKUST logo">
+  </li>
+  <li>
+    <div class="tl-body">
+      <span class="tl-date">2020 - 2024</span>
+      <strong>Bachelor of Science, Computer Science</strong> &amp; <strong>Bachelor of Engineering, Electronic Engineering</strong> (Double Major) - The Hong Kong University of Science and Technology
     </div>
-    <img class="cv-logo" src="/images/HKUST.png" alt="HKUST logo">
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-body">
-      <div class="cv-head">
-        <span class="cv-title">ETH Zurich</span>
-        <span class="cv-date">2023 Spring</span>
-      </div>
-      <ul>
-        <li>Exchange student, Computer Science</li>
-      </ul>
+    <img class="tl-logo" src="/images/HKUST.png" alt="HKUST logo">
+  </li>
+  <li>
+    <div class="tl-body">
+      <span class="tl-date">2023 Spring</span>
+      <strong>Exchange student, Computer Science</strong> - ETH Zurich
     </div>
-    <img class="cv-logo" src="/images/ETH.png" alt="ETH Zurich logo">
-  </div>
-</div>
+    <img class="tl-logo" src="/images/ETH.png" alt="ETH Zurich logo">
+  </li>
+</ul>
 
 ## 💼 Internship
 
-<div class="cv-list">
-  <!-- <div class="cv-item">
-    <div class="cv-body">
-      <div class="cv-head">
-        <span class="cv-title">Kling AI, Kuaishou Technology</span>
-        <span class="cv-date">Jul 2026 - Present</span>
-      </div>
-      <ul>
-        <li>Research Intern on Embodied AI.</li>
-      </ul>
+<ul class="section-timeline">
+  <!-- <li>
+    <div class="tl-body">
+      <span class="tl-date">Jul 2026 - Present</span>
+      <strong>Research Intern</strong> - Kling AI, Kuaishou Technology<br>
+      Research included: Embodied AI
     </div>
-    <img class="cv-logo" src="/images/klingai_thumb.png" alt="Kling AI logo">
-  </div> -->
-
-  <div class="cv-item">
-    <div class="cv-body">
-      <div class="cv-head">
-        <span class="cv-title">SmartMore</span>
-        <span class="cv-date">Nov 2023 - Jan 2024</span>
-      </div>
-      <ul>
-        <li>Mentored by <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a></li>
-        <li>Research Intern on Vision-Language Model.</li>
-      </ul>
+    <img class="tl-logo" src="/images/klingai_thumb.png" alt="Kling AI logo">
+  </li> -->
+  <li>
+    <div class="tl-body">
+      <span class="tl-date">Nov 2023 - Jan 2024</span>
+      <strong>Research Intern</strong> - SmartMore<br>
+      Mentored by: <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a><br>
+      Research included: Vision-Language Model
     </div>
-    <img class="cv-logo" src="/images/SmartMore.png" alt="SmartMore logo">
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-body">
-      <div class="cv-head">
-        <span class="cv-title">Career Hackers @HKSTP</span>
-        <span class="cv-date">Jun 2022 - Aug 2022</span>
-      </div>
-      <ul>
-        <li>Mentored by <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></li>
-        <li>Backend Developer on Web Service and API.</li>
-      </ul>
+    <img class="tl-logo" src="/images/SmartMore.png" alt="SmartMore logo">
+  </li>
+  <li>
+    <div class="tl-body">
+      <span class="tl-date">Jun 2022 - Aug 2022</span>
+      <strong>Backend Developer</strong> - Career Hackers @HKSTP<br>
+      Mentored by: <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a><br>
+      Work included: Web Service and API
     </div>
-    <img class="cv-logo" src="/images/CH.png" alt="Career Hackers logo">
-  </div>
-</div>
+    <img class="tl-logo" src="/images/CH.png" alt="Career Hackers logo">
+  </li>
+</ul>
 
 ## 🎖 Honors and Awards
 
-<ul class="section-list">
+<ul class="section-honors">
   <li><em>2024</em> &nbsp;&nbsp; Hong Kong PhD Fellowship Scheme</li>
   <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li>
   <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li>
-  <li><em>2022 - 2023</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
+  <li><em>2022</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
   <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship Fund - Reaching Out Award</li>
   <li><em>2021</em> &nbsp;&nbsp; The Joseph Lau Luen Hung Charitable Trust Scholarship</li>
 </ul>
