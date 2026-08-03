@@ -104,11 +104,26 @@ redirect_from:
     color: #494e52;
   }
 
-  .tl-body .tl-date {
+  .tl-body .tl-title {
     display: block;
     font-weight: 700;
+    font-size: 0.85rem;
     color: #2f3338;
-    margin-bottom: 0.2em;
+  }
+
+  .tl-body .tl-date {
+    display: block;
+    margin-top: 0.15em;
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #7a8288;
+  }
+
+  .tl-body .tl-detail {
+    display: block;
+    margin-top: 0.2em;
+    font-size: 0.85rem;
+    color: #494e52;
   }
 
   .tl-logo {
@@ -133,7 +148,7 @@ redirect_from:
     padding: 0.75em 1.1em;
     margin: 0 0 0.55em 0;
     border-radius: 6px;
-    border-left: 3px solid #c9a227;
+    border-left: 3px solid #1460b3;
     font-size: 0.85rem;
     transition: background 0.2s ease, border-left-width 0.2s ease;
   }
@@ -148,7 +163,7 @@ redirect_from:
   }
 
   ul.section-honors > li em {
-    color: #a8891f;
+    color: #1460b3;
     font-weight: 600;
     font-style: normal;
     font-size: 0.85rem;
@@ -188,24 +203,28 @@ redirect_from:
 <ul class="section-timeline">
   <li>
     <div class="tl-body">
+      <span class="tl-title">The Hong Kong University of Science and Technology</span>
       <span class="tl-date">2024 - Present</span>
-      <strong>Doctor of Philosophy, Computer Science</strong> - The Hong Kong University of Science and Technology
+      <span class="tl-detail">Doctor of Philosophy, Computer Science</span>
     </div>
     <img class="tl-logo" src="/images/HKUST.png" alt="HKUST logo">
   </li>
   <li>
     <div class="tl-body">
-      <span class="tl-date">2020 - 2024</span>
-      <strong>Bachelor of Science, Computer Science</strong> &amp; <strong>Bachelor of Engineering, Electronic Engineering</strong> (Double Major) - The Hong Kong University of Science and Technology
-    </div>
-    <img class="tl-logo" src="/images/HKUST.png" alt="HKUST logo">
-  </li>
-  <li>
-    <div class="tl-body">
+      <span class="tl-title">ETH Zurich</span>
       <span class="tl-date">2023 Spring</span>
-      <strong>Exchange student, Computer Science</strong> - ETH Zurich
+      <span class="tl-detail">Exchange student, Computer Science</span>
     </div>
     <img class="tl-logo" src="/images/ETH.png" alt="ETH Zurich logo">
+  </li>
+  <li>
+    <div class="tl-body">
+      <span class="tl-title">The Hong Kong University of Science and Technology</span>
+      <span class="tl-date">2020 - 2024</span>
+      <span class="tl-detail">Bachelor of Science, Computer Science</span>
+      <span class="tl-detail">Bachelor of Engineering, Electronic Engineering (Double Major)</span>
+    </div>
+    <img class="tl-logo" src="/images/HKUST.png" alt="HKUST logo">
   </li>
 </ul>
 
@@ -214,27 +233,28 @@ redirect_from:
 <ul class="section-timeline">
   <!-- <li>
     <div class="tl-body">
+      <span class="tl-title">Kling AI, Kuaishou Technology</span>
       <span class="tl-date">Jul 2026 - Present</span>
-      <strong>Research Intern</strong> - Kling AI, Kuaishou Technology<br>
-      Research included: Embodied AI
+      <span class="tl-detail">Research Intern</span>
+      <span class="tl-detail">Focus: Embodied AI</span>
     </div>
     <img class="tl-logo" src="/images/klingai_thumb.png" alt="Kling AI logo">
   </li> -->
   <li>
     <div class="tl-body">
+      <span class="tl-title">SmartMore</span>
       <span class="tl-date">Nov 2023 - Jan 2024</span>
-      <strong>Research Intern</strong> - SmartMore<br>
-      Mentored by: <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a><br>
-      Research included: Vision-Language Model
+      <span class="tl-detail">Research Intern, Mentored by: <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a></span>
+      <span class="tl-detail">Focus: Vision-Language Model</span>
     </div>
     <img class="tl-logo" src="/images/SmartMore.png" alt="SmartMore logo">
   </li>
   <li>
     <div class="tl-body">
+      <span class="tl-title">Career Hackers @HKSTP</span>
       <span class="tl-date">Jun 2022 - Aug 2022</span>
-      <strong>Backend Developer</strong> - Career Hackers @HKSTP<br>
-      Mentored by: <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a><br>
-      Work included: Web Service and API
+      <span class="tl-detail">Backend Developer, Mentored by: <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></span>
+      <span class="tl-detail">Focus: Amazon Web Services and APIs</span>
     </div>
     <img class="tl-logo" src="/images/CH.png" alt="Career Hackers logo">
   </li>
@@ -246,23 +266,25 @@ redirect_from:
   <li><em>2024</em> &nbsp;&nbsp; Hong Kong PhD Fellowship Scheme</li>
   <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li>
   <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li>
-  <li><em>2022</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
+  <li><em>2023</em> &nbsp;&nbsp; Lee Hysan Foundation Exchange Scholarship</li>
   <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship Fund - Reaching Out Award</li>
+  <li><em>2022</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
   <li><em>2021</em> &nbsp;&nbsp; The Joseph Lau Luen Hung Charitable Trust Scholarship</li>
+  <li><em>2018</em> &nbsp;&nbsp; First Prize in the 24th National Olympiad in Informatics in Provinces (NOIP)</li>
 </ul>
 
 ## 👨‍🏫 Teaching Assistant
 
-<div class="cv-text">
-  <div class="cv-line">Deep 2D and 3D Visual Scene Understanding, 2025-2026 Spring</div>
-  <div class="cv-line">Object-Oriented Programming and Data Structures, 2024-2025 Spring</div>
-</div>
+<ul class="section-honors">
+  <li><em>2025-2026 Spring</em> &nbsp;&nbsp; Deep 2D and 3D Visual Scene Understanding</li>
+  <li><em>2024-2025 Spring</em> &nbsp;&nbsp; Object-Oriented Programming and Data Structures</li>
+</ul>
 
 ## 📝 Reviewer
 
-<div class="cv-text">
-  <div class="cv-line">International Journal of Computer Vision (IJCV)</div>
-</div>
+<ul class="section-honors">
+  <li>International Journal of Computer Vision (IJCV)</li>
+</ul>
 
 ## 👀 Visitors
 
