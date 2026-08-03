@@ -105,6 +105,33 @@ redirect_from:
     font-size: 0.85rem;
   }
 
+  ul.section-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1.5em 0;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: #494e52;
+  }
+
+  ul.section-list > li {
+    padding: 0.55em 0;
+    margin: 0;
+    border-bottom: 1px solid #f2f3f3;
+    font-size: 0.85rem;
+  }
+
+  ul.section-list > li:last-child {
+    border-bottom: none;
+  }
+
+  ul.section-list > li em {
+    font-style: italic;
+    font-weight: 600;
+    color: #7a8288;
+    font-size: 0.85rem;
+  }
+
   @media (max-width: 768px) {
     .cv-item {
       gap: 0.9em;
@@ -158,7 +185,7 @@ redirect_from:
       </div>
       <ul>
         <li>Bachelor of Science, Computer Science</li>
-        <li>Bachelor of Engineering, Electronic Engineering (Double Major) </li>
+        <li>Bachelor of Engineering, Electronic Engineering (Double Major)</li>
       </ul>
     </div>
     <img class="cv-logo" src="/images/HKUST.png" alt="HKUST logo">
@@ -223,16 +250,16 @@ redirect_from:
   </div>
 </div>
 
-## 🏅 Selected Awards
+## 🎖 Honors and Awards
 
-<div class="cv-text">
-  <div class="cv-line">Hong Kong PhD Fellowship Scheme, 2024</div>
-  <div class="cv-line">HKUST RedBird PhD Scholarship, 2024</div>
-  <div class="cv-line">HKUST Academic Achievement Medal, 2024</div>
-  <div class="cv-line">HKSAR Government Scholarship, 2022-2023</div>
-  <div class="cv-line">HKSAR Government Scholarship Fund - Reaching Out Award, 2023</div>
-  <div class="cv-line">The Joseph Lau Luen Hung Charitable Trust Scholarship, 2021</div>
-</div>
+<ul class="section-list">
+  <li><em>2024</em> &nbsp;&nbsp; Hong Kong PhD Fellowship Scheme</li>
+  <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li>
+  <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li>
+  <li><em>2022 - 2023</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
+  <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship Fund - Reaching Out Award</li>
+  <li><em>2021</em> &nbsp;&nbsp; The Joseph Lau Luen Hung Charitable Trust Scholarship</li>
+</ul>
 
 ## 👨‍🏫 Teaching Assistant
 
