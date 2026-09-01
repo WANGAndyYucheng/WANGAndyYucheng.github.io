@@ -266,8 +266,8 @@ redirect_from:
       <span class="tl-detail">Focus: Amazon Web Services and APIs</span>
     </div>
     <img class="tl-logo" src="/images/CH.png" alt="Career Hackers logo">
-  </li>
-</ul> -->
+  </li>-->
+ </ul>
 
 ## 🎖 Selected Awards
 
