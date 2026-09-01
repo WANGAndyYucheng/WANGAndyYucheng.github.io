@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="cv-text">
-  <p>I'm a second-year Ph.D. student advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a href="https://insait.ai/dr-danda-paudel/">Dr. Danda Paudel</a> on 3D gaze estimation and eye modeling.</p>
+  <p>I'm a second-year Ph.D. student advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a> on 3D gaze estimation and eye modeling.</p>
   <p>My research lies in Generative AI, with a focus on <strong>Controllable</strong> and <strong>Efficient</strong> image/video generation. More recently, I have been increasingly interested in how such generative models can serve for <strong>Embodied Intelligence</strong>. Feel free to reach out for discussions and collaborations.</p>
 </div>
 
@@ -251,6 +251,15 @@ redirect_from:
   </li>
   <li>
     <div class="tl-body">
+      <span class="tl-title">Computer Vision Laboratory @ETH Zurich </span>
+      <span class="tl-date">Aug 2023 - Nov 2023</span>
+      <span class="tl-detail">Research Intern, Mentored by: <a href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a></span>
+      <span class="tl-detail">Focus: Generative Model</span>
+    </div>
+    <img class="tl-logo" src="/images/ETH.png" alt="ETH Zurich logo">
+  </li>
+  <li>
+    <div class="tl-body">
       <span class="tl-title">Career Hackers @HKSTP</span>
       <span class="tl-date">Jun 2022 - Aug 2022</span>
       <span class="tl-detail">Backend Developer, Mentored by: <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></span>
@@ -276,11 +285,12 @@ redirect_from:
 ## 👨‍🏫 Teaching Assistant
 
 <ul class="section-honors">
+  <li><em>2026-2027 Fall</em> &nbsp;&nbsp; Learning, Reasoning, and Decision Making in AI,</li>
   <li><em>2025-2026 Spring</em> &nbsp;&nbsp; Deep 2D and 3D Visual Scene Understanding</li>
   <li><em>2024-2025 Spring</em> &nbsp;&nbsp; Object-Oriented Programming and Data Structures</li>
 </ul>
 
-## 📝 Reviewer
+## 📝 Journal Reviewer
 
 <ul class="section-honors">
   <li>International Journal of Computer Vision (IJCV)</li>

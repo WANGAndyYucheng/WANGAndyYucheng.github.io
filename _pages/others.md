@@ -14,7 +14,7 @@ I have actively engaged in various roles during my undergraduate years. Here is 
 - **Peer Mentor**, Mainland Students and Scholars Society, UG Section
 - **UGTA**, COMP2011 Programming with C++
 
-Strong passions for Basketball, Wind Instrument, and Science&Fantasy Fiction. 
+Strong passions for Basketball, Wind Instrument, Game and Fantasy Fiction. 
 
 「Home~ My Song Diary」 by Priscilla Ahn is my recent favorite album!
 
