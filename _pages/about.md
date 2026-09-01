@@ -228,7 +228,7 @@ redirect_from:
   </li>
 </ul>
 
-## 💼 Internship
+## 💼 Experience
 
 <ul class="section-timeline">
   <!-- <li>
@@ -258,7 +258,7 @@ redirect_from:
     </div>
     <img class="tl-logo" src="/images/ETH.png" alt="ETH Zurich logo">
   </li>
-  <li>
+  <!-- <li>
     <div class="tl-body">
       <span class="tl-title">Career Hackers @HKSTP</span>
       <span class="tl-date">Jun 2022 - Aug 2022</span>
@@ -267,29 +267,29 @@ redirect_from:
     </div>
     <img class="tl-logo" src="/images/CH.png" alt="Career Hackers logo">
   </li>
-</ul>
+</ul> -->
 
-## 🎖 Honors and Awards
+## 🎖 Selected Awards
 
 <ul class="section-honors">
   <li><em>2024</em> &nbsp;&nbsp; Hong Kong PhD Fellowship Scheme</li>
   <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li>
   <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li>
-  <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
+  <!-- <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship</li> -->
   <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship Fund - Reaching Out Award</li>
   <li><em>2023</em> &nbsp;&nbsp; Lee Hysan Foundation Exchange Scholarship</li>
   <li><em>2022</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
   <li><em>2021</em> &nbsp;&nbsp; The Joseph Lau Luen Hung Charitable Trust Scholarship</li>
-  <li><em>2018</em> &nbsp;&nbsp; Silver Medal in the 4th China Collegiate Programming Contest (CCPC) Northeast Region</li>
+  <!-- <li><em>2018</em> &nbsp;&nbsp; Silver Medal in the 4th China Collegiate Programming Contest (CCPC) Northeast Region</li> -->
   <li><em>2018</em> &nbsp;&nbsp; First Prize in the 24th National Olympiad in Informatics in Provinces (NOIP)</li>
 </ul>
 
 ## 👨‍🏫 Teaching Assistant
 
 <ul class="section-honors">
-  <li><em>2026-2027 Fall  </em> &nbsp;&nbsp; Learning, Reasoning, and Decision Making in AI</li>
-  <li><em>2025-2026 Spring</em> &nbsp;&nbsp; Deep 2D and 3D Visual Scene Understanding</li>
-  <li><em>2024-2025 Spring</em> &nbsp;&nbsp; Object-Oriented Programming and Data Structures</li>
+  <li><em>2026-2027</em> &nbsp;&nbsp; Learning, Reasoning, and Decision Making in AI</li>
+  <li><em>2025-2026</em> &nbsp;&nbsp; Deep 2D and 3D Visual Scene Understanding</li>
+  <li><em>2024-2025</em> &nbsp;&nbsp; Object-Oriented Programming and Data Structures</li>
 </ul>
 
 ## 📝 Journal Reviewer
