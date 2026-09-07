@@ -296,7 +296,7 @@ redirect_from:
 
 <ul class="section-honors">
   <li><em>TPAMI</em> &nbsp;&nbsp; IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
-  <li><em>IJCV</em> &nbsp;&nbsp; International Journal of Computer Vision</li>
+  <li><em>IJCV </em> &nbsp;&nbsp; International Journal of Computer Vision</li>
 </ul>
 
 ## 👀 Visitors
