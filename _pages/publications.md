@@ -82,6 +82,14 @@ author_profile: true
     color: #0f508f;
   }
 
+  .paper-box .paper-box-text .pub-pending {
+    color: #1460b3;
+  }
+
+  .paper-box .paper-box-text p:first-child .pub-pending {
+    font-weight: 500;
+  }
+
   .paper-box .paper-box-text p:last-child {
     font-size: 0.75rem;
     color: #6a737d;
@@ -119,6 +127,38 @@ author_profile: true
   }
 </style>
 
+<!-- SAFE-Hair -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS2026</div>
+      <img src="/images/pubs/SAFE-Hair.png" alt="SAFE-Hair" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><span class="pub-pending">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</span></p>
+    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
+    <p><span class="pub-pending">Project, Paper, Code (Coming Soon)</span> <br></p>
+    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
+  </div>
+</div>
+
+<!-- VTP -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS2026</div>
+      <img src="/images/pubs/VTP.png" alt="VTP" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><span class="pub-pending">Virtual Task Prompting for Multi-Task Scene Understanding</span></p>
+    <p>Zedong Wang<sup>*</sup>, <strong>Yucheng Wang</strong><sup>*</sup>, Dan Xu <br></p>
+    <p><span class="pub-pending">Project, Paper, Code (Coming Soon)</span> <br></p>
+    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
+  </div>
+</div>
+
 <!-- LiveLight -->
 <div class="paper-box">
   <div class="paper-box-image">
@@ -146,7 +186,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2603.08589">CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</a></p>
     <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
-    <p><a href="https://care-edit.github.io/">Project</a>, <a href="https://arxiv.org/abs/2603.08589">Paper</a>, <a href="https://github.com/CARE-Edit/Code">Code</a>, <a href="https://huggingface.co/papers/2603.08589">Model</a> <br></p>
+    <p><a href="https://care-edit.github.io/">Project</a>, <a href="https://arxiv.org/abs/2603.08589">Paper</a>, <a href="https://github.com/CARE-Edit/Code">Code</a> <br></p>
     <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
   </div>
 </div>

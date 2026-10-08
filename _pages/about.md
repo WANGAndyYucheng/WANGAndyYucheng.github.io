@@ -171,6 +171,117 @@ redirect_from:
     margin-right: 0.55em;
   }
 
+  ul.section-courses > li em {
+    min-width: 5.6em;
+  }
+
+  .paper-box {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    border-bottom: 1px solid #efefef;
+    padding: 2em 0;
+    gap: 0;
+    clear: both;
+  }
+
+  .paper-box .paper-box-image {
+    flex: 0 0 40%;
+    max-width: 40%;
+    justify-content: flex-start;
+    display: flex;
+    order: 1;
+  }
+
+  .paper-box .paper-box-image > div {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+  }
+
+  .paper-box .paper-box-image img {
+    display: block;
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    box-shadow: 3px 3px 6px #888;
+    object-fit: cover;
+  }
+
+  .paper-box .paper-box-text {
+    flex: 1 1 60%;
+    max-width: 60%;
+    order: 2;
+    padding-left: 2em;
+    min-width: 0;
+    font-size: 0.8125rem;
+    line-height: 1.45;
+    color: #494e52;
+  }
+
+  .paper-box .paper-box-text p {
+    margin: 0.1rem 0 0.4rem 0;
+  }
+
+  .paper-box .paper-box-text p:first-child {
+    font-size: 0.875rem;
+    line-height: 1.3;
+  }
+
+  .paper-box .paper-box-text p:first-child a,
+  .paper-box .paper-box-text p:first-child a:visited,
+  .paper-box .paper-box-text p:first-child a:active {
+    color: #1460b3;
+    font-weight: 500;
+  }
+
+  .paper-box .paper-box-text p:first-child a:hover {
+    color: #0f508f;
+  }
+
+  .paper-box .paper-box-text a,
+  .paper-box .paper-box-text a:visited,
+  .paper-box .paper-box-text a:active {
+    color: #1460b3;
+  }
+
+  .paper-box .paper-box-text a:hover {
+    color: #0f508f;
+  }
+
+  .paper-box .paper-box-text p:last-child {
+    font-size: 0.75rem;
+    color: #6a737d;
+  }
+
+  .paper-box .badge {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    position: absolute;
+    margin-top: 0.5em;
+    margin-left: -0.5em;
+    color: #fff;
+    background-color: #0d4da8;
+    font-size: 0.8em;
+    z-index: 1;
+  }
+
+  .paper-box .paper-box-text .pub-pending {
+    color: #1460b3;
+  }
+
+  .paper-box .paper-box-text p:first-child .pub-pending {
+    font-weight: 500;
+  }
+
+  .pubs-more {
+    margin: 1em 0 1.5em 0;
+    font-size: 0.85rem;
+    color: #494e52;
+  }
+
   @media (max-width: 768px) {
     ul.section-timeline > li {
       gap: 0.9em;
@@ -182,6 +293,23 @@ redirect_from:
       width: 48px;
       height: 48px;
     }
+
+    .paper-box {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .paper-box .paper-box-image,
+    .paper-box .paper-box-text {
+      flex: 1 1 100%;
+      max-width: 100%;
+      order: unset;
+    }
+
+    .paper-box .paper-box-text {
+      padding-left: 0;
+      padding-top: 1em;
+    }
   }
 </style>
 
@@ -189,16 +317,84 @@ redirect_from:
 
 <div class="news-scroll">
   <ul>
-    <li><strong>Sep 2026</strong>: Two papers (<em>SAFE-Hair</em> and <em>VTP</em>) accepted by NeurIPS 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> and <a href="https://jacky1128.github.io/">Zedong</a>!</li>
-    <li><strong>Jul 2026</strong>: One co-authored <a href="https://living-lighting.github.io/">paper</a> (<em>LiveLight</em>) accepted by ACM TOG 2026. Thanks to <a href="https://mayuelala.github.io/">Yue</a>!</li>
-    <li><strong>Mar 2026</strong>: One <a href="https://care-edit.github.io/">paper</a> (<em>CARE-Edit</em>) accepted by CVPR 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> and <a href="https://jacky1128.github.io/">Zedong</a>!</li>
-    <li><strong>Mar 2026</strong>: One co-authored <a href="https://easy-vfx.github.io/">paper</a> (<em>EasyVFX</em>) accepted by SIGGRAPH 2026. Thanks to <a href="https://mayuelala.github.io/">Yue</a>!</li>
-    <li><strong>Aug 2025</strong>: One co-authored survey released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Thanks to <a href="https://mayuelala.github.io/">Yue</a>!</li>
-    <li><strong>Jul 2025</strong>: One co-authored <a href="https://copart3d.github.io/">paper</a> (<em>CoPart</em>) accepted by ICCV 2025. Thanks to <a href="https://hkdsc.github.io/">Shaocong</a>!</li>
-    <li><strong>Jul 2025</strong>: One paper (<em>MoDiT</em>) released on <em><a href="https://arxiv.org/abs/2507.05092">arXiv</a></em>.</li>
+    <li><strong>Sep 2026</strong>: Two papers (SAFE-Hair and VTP) on <strong>3D Generation</strong> and <strong>Multi-task Learning</strong> accepted by NeurIPS 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
+    <li><strong>Jul 2026</strong>: One co-authored <a href="https://living-lighting.github.io/">paper</a> (<em>LiveLight</em>) on <strong>Video Relighting</strong> accepted by ACM TOG 2026. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Mar 2026</strong>: One <a href="https://care-edit.github.io/">paper</a> (<em>CARE-Edit</em>) on <strong>Image Editing</strong> accepted by CVPR 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
+    <li><strong>Mar 2026</strong>: One co-authored <a href="https://easy-vfx.github.io/">paper</a> (<em>EasyVFX</em>) on <strong>VFX Generation</strong> accepted by SIGGRAPH 2026. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Aug 2025</strong>: One co-authored survey on <strong>Controllable Video Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Jul 2025</strong>: One co-authored <a href="https://copart3d.github.io/">paper</a> (<em>CoPart</em>) on <strong>3D Generation</strong> accepted by ICCV 2025. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
+    <li><strong>Jul 2025</strong>: One paper on <strong>Talking Head Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.05092">arXiv</a></em>.</li>
     <li><strong>Jun 2024</strong>: I’ve graduated from HKUST with the <a href="https://registry.hkust.edu.hk/academic-achievement-medal">Academic Achievement Medal</a>. Thank you all my mentors and friends!</li>
   </ul>
 </div>
+
+## 📚 Selected Publications
+
+<!-- CARE-Edit -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">CVPR2026</div>
+      <img src="/images/pubs/CARE-Edit.png" alt="CARE-Edit" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2603.08589">CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</a></p>
+    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
+    <p><a href="https://care-edit.github.io/">Project</a>, <a href="https://arxiv.org/abs/2603.08589">Paper</a>, <a href="https://github.com/CARE-Edit/Code">Code</a> <br></p>
+    <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
+  </div>
+</div>
+
+<!-- SAFE-Hair -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS2026</div>
+      <img src="/images/pubs/SAFE-Hair.png" alt="SAFE-Hair" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><span class="pub-pending">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</span></p>
+    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
+    <p><span class="pub-pending">Project, Paper, Code (Coming Soon)</span> <br></p>
+    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
+  </div>
+</div>
+
+<!-- VTP -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS2026</div>
+      <img src="/images/pubs/VTP.png" alt="VTP" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><span class="pub-pending">Virtual Task Prompting for Multi-Task Scene Understanding</span></p>
+    <p>Zedong Wang<sup>*</sup>, <strong>Yucheng Wang</strong><sup>*</sup>, Dan Xu <br></p>
+    <p><span class="pub-pending">Project, Paper, Code (Coming Soon)</span> <br></p>
+    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
+  </div>
+</div>
+
+<!-- LiveLight -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">TOG2026</div>
+      <img src="/images/pubs/LiveLight.png" alt="LiveLight" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
+    <p>Yue Ma, Jiangming Wang, <strong>Yucheng Wang</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
+    <p><a href="https://living-lighting.github.io/">Project</a>, <a href="https://arxiv.org/abs/2608.01771">Paper</a>, <a href="https://github.com/mayuelala/LiveLight">Code</a>, <a href="https://modelscope.cn/models/wjm1029/LiveLight">Model</a> <br></p>
+    <p>ACM Transactions on Graphics (TOG), 2026</p>
+  </div>
+</div>
+
+<p class="pubs-more">For the full list, please see <a href="/publications/">Publications</a>.</p>
 
 ## 🎓 Education
 
@@ -222,7 +418,7 @@ redirect_from:
   <li>
     <div class="tl-body">
       <span class="tl-title">The Hong Kong University of Science and Technology</span>
-      <span class="tl-date">2020 - 2024</span>
+      <span class="tl-date">2020 - 2024 with Academic Achievement Medal</span>
       <span class="tl-detail">Bachelor of Science, Computer Science</span>
       <span class="tl-detail">Bachelor of Engineering, Electronic Engineering (Double Major)</span>
     </div>
@@ -276,7 +472,7 @@ redirect_from:
 <ul class="section-honors">
   <li><em>2024</em> &nbsp;&nbsp; Hong Kong PhD Fellowship Scheme</li>
   <!-- <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li> -->
-  <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li>
+  <!-- <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li> -->
   <!-- <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship</li> -->
   <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship Fund - Reaching Out Award</li>
   <!-- <li><em>2023</em> &nbsp;&nbsp; Lee Hysan Foundation Exchange Scholarship</li> -->
@@ -288,10 +484,10 @@ redirect_from:
 
 ## 👨‍🏫 Teaching Assistant
 
-<ul class="section-honors">
-  <li><em>2026-2027</em> &nbsp;&nbsp; Learning, Reasoning, and Decision Making in AI</li>
-  <li><em>2025-2026</em> &nbsp;&nbsp; Deep 2D and 3D Visual Scene Understanding</li>
-  <li><em>2024-2025</em> &nbsp;&nbsp; Object-Oriented Programming and Data Structures</li>
+<ul class="section-honors section-reviewer section-courses">
+  <li><em>COMP2012</em> Object-Oriented Programming and Data Structures</li>
+  <li><em>COMP3211</em> Learning, Reasoning, and Decision Making in AI</li>
+  <li><em>COMP5422</em> Deep 2D and 3D Visual Scene Understanding</li>
 </ul>
 
 ## 📝 Journal Reviewer
