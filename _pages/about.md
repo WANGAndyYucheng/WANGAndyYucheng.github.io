@@ -468,8 +468,6 @@ redirect_from:
   </div>
 </div>
 
-<p class="pubs-more">For the full list, please see <a href="/publications/">Publications</a>.</p>
-
 ## 🎖 Selected Awards
 
 <ul class="section-honors">
