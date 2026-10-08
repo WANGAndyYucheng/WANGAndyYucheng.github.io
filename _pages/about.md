@@ -182,14 +182,14 @@ redirect_from:
     flex-direction: row;
     flex-wrap: nowrap;
     border-bottom: 1px solid #efefef;
-    padding: 2em 0;
+    padding: 1.2em 0;
     gap: 0;
     clear: both;
   }
 
   .paper-box .paper-box-image {
-    flex: 0 0 40%;
-    max-width: 40%;
+    flex: 0 0 36%;
+    max-width: 36%;
     justify-content: flex-start;
     display: flex;
     order: 1;
@@ -206,15 +206,17 @@ redirect_from:
     width: 100%;
     max-width: 400px;
     height: auto;
+    aspect-ratio: 2.15 / 1;
     box-shadow: 3px 3px 6px #888;
-    object-fit: cover;
+    object-fit: contain;
+    background: #fff;
   }
 
   .paper-box .paper-box-text {
-    flex: 1 1 60%;
-    max-width: 60%;
+    flex: 1 1 64%;
+    max-width: 64%;
     order: 2;
-    padding-left: 2em;
+    padding-left: 1.5em;
     min-width: 0;
     font-size: 0.8125rem;
     line-height: 1.45;
@@ -222,7 +224,7 @@ redirect_from:
   }
 
   .paper-box .paper-box-text p {
-    margin: 0.1rem 0 0.4rem 0;
+    margin: 0 0 0.3rem 0;
   }
 
   .paper-box .paper-box-text p:first-child {
@@ -328,74 +330,6 @@ redirect_from:
   </ul>
 </div>
 
-## 📚 Selected Publications
-
-<!-- CARE-Edit -->
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">CVPR2026</div>
-      <img src="/images/pubs/CARE-Edit.png" alt="CARE-Edit" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><a href="https://arxiv.org/abs/2603.08589">CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</a></p>
-    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
-    <p><a href="https://care-edit.github.io/">Project</a>, <a href="https://arxiv.org/abs/2603.08589">Paper</a>, <a href="https://github.com/CARE-Edit/Code">Code</a> <br></p>
-    <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
-  </div>
-</div>
-
-<!-- SAFE-Hair -->
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">NeurIPS2026</div>
-      <img src="/images/pubs/SAFE-Hair.png" alt="SAFE-Hair" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><span class="pub-pending">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</span></p>
-    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
-    <p><span class="pub-pending">Project, Paper, Code (Coming Soon)</span> <br></p>
-    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
-  </div>
-</div>
-
-<!-- VTP -->
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">NeurIPS2026</div>
-      <img src="/images/pubs/VTP.png" alt="VTP" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><span class="pub-pending">Virtual Task Prompting for Multi-Task Scene Understanding</span></p>
-    <p>Zedong Wang<sup>*</sup>, <strong>Yucheng Wang</strong><sup>*</sup>, Dan Xu <br></p>
-    <p><span class="pub-pending">Project, Paper, Code (Coming Soon)</span> <br></p>
-    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
-  </div>
-</div>
-
-<!-- LiveLight -->
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">TOG2026</div>
-      <img src="/images/pubs/LiveLight.png" alt="LiveLight" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text">
-    <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
-    <p>Yue Ma, Jiangming Wang, <strong>Yucheng Wang</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
-    <p><a href="https://living-lighting.github.io/">Project</a>, <a href="https://arxiv.org/abs/2608.01771">Paper</a>, <a href="https://github.com/mayuelala/LiveLight">Code</a>, <a href="https://modelscope.cn/models/wjm1029/LiveLight">Model</a> <br></p>
-    <p>ACM Transactions on Graphics (TOG), 2026</p>
-  </div>
-</div>
-
-<p class="pubs-more">For the full list, please see <a href="/publications/">Publications</a>.</p>
-
 ## 🎓 Education
 
 <ul class="section-timeline">
@@ -466,6 +400,74 @@ redirect_from:
     <img class="tl-logo" src="/images/CH.png" alt="Career Hackers logo">
   </li>-->
  </ul>
+
+## 📚 Selected Publications
+
+<!-- CARE-Edit -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">CVPR2026</div>
+      <img src="/images/pubs/CARE-Edit.png" alt="CARE-Edit" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://arxiv.org/abs/2603.08589">CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</a></p>
+    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
+    <p><a href="https://arxiv.org/abs/2603.08589">[Paper]</a> <a href="https://github.com/CARE-Edit/Code">[Code]</a> <a href="https://care-edit.github.io/">[Project Page]</a> <br></p>
+    <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
+  </div>
+</div>
+
+<!-- SAFE-Hair -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS2026</div>
+      <img src="/images/pubs/SAFE-Hair.png" alt="SAFE-Hair" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><span class="pub-pending">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</span></p>
+    <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
+    <p><span class="pub-pending">(Coming Soon!)</span> <br></p>
+    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
+  </div>
+</div>
+
+<!-- VTP -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">NeurIPS2026</div>
+      <img src="/images/pubs/VTP.png" alt="VTP" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><span class="pub-pending">Virtual Task Prompting for Multi-Task Scene Understanding</span></p>
+    <p>Zedong Wang<sup>*</sup>, <strong>Yucheng Wang</strong><sup>*</sup>, Dan Xu <br></p>
+    <p><span class="pub-pending">(Coming Soon!)</span> <br></p>
+    <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
+  </div>
+</div>
+
+<!-- LiveLight -->
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div>
+      <div class="badge">TOG2026</div>
+      <img src="/images/pubs/LiveLight.png" alt="LiveLight" width="100%">
+    </div>
+  </div>
+  <div class="paper-box-text">
+    <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
+    <p>Yue Ma, Jiangming Wang, <strong>Yucheng Wang</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
+    <p><a href="https://arxiv.org/abs/2608.01771">[Paper]</a> <a href="https://github.com/mayuelala/LiveLight">[Code]</a> <a href="https://living-lighting.github.io/">[Project Page]</a> <a href="https://modelscope.cn/models/wjm1029/LiveLight">[Model]</a> <br></p>
+    <p>ACM Transactions on Graphics (TOG), 2026</p>
+  </div>
+</div>
+
+<p class="pubs-more">For the full list, please see <a href="/publications/">Publications</a>.</p>
 
 ## 🎖 Selected Awards
 
