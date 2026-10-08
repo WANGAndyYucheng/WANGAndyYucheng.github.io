@@ -172,7 +172,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
     <p>Yue Ma, Jiangming Wang, <strong>Yucheng Wang</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
-    <p><a href="https://arxiv.org/abs/2608.01771">[Paper]</a> <a href="https://github.com/mayuelala/LiveLight">[Code]</a> <a href="https://living-lighting.github.io/">[Project Page]</a>
+    <p><a href="https://arxiv.org/abs/2608.01771">[Paper]</a> <a href="https://github.com/mayuelala/LiveLight">[Code]</a> <a href="https://living-lighting.github.io/">[Project Page]</a> <br></p>
     <p>ACM Transactions on Graphics (TOG), 2026</p>
   </div>
 </div>
@@ -220,7 +220,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2507.08772">From One to More: Contextual Part Latents for 3D Generation</a></p>
     <p>Shaocong Dong<sup>*</sup>, Lihe Ding<sup>*</sup>, Xiao Chen, Yaokun Li, Yuxin Wang, <strong>Yucheng Wang</strong>, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu <br></p>
-    <p><a href="https://arxiv.org/abs/2507.08772">[Paper]</a> <a href="https://github.com/hkdsc/copart">[Code]</a> <a href="https://hkdsc.github.io/project/copart/">[Project Page]</a> <a href="https://huggingface.co/datasets/dscdyc/partverse">[Dataset]</a> <br></p>
+    <p><a href="https://arxiv.org/abs/2507.08772">[Paper]</a> <a href="https://github.com/hkdsc/copart">[Code]</a> <a href="https://hkdsc.github.io/project/copart/">[Project Page]</a> <br></p>
     <p>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</p>
   </div>
 </div>
