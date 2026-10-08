@@ -188,8 +188,8 @@ redirect_from:
   }
 
   .paper-box .paper-box-image {
-    flex: 0 0 36%;
-    max-width: 36%;
+    flex: 0 0 30%;
+    max-width: 30%;
     justify-content: flex-start;
     display: flex;
     order: 1;
@@ -213,8 +213,8 @@ redirect_from:
   }
 
   .paper-box .paper-box-text {
-    flex: 1 1 64%;
-    max-width: 64%;
+    flex: 1 1 70%;
+    max-width: 70%;
     order: 2;
     padding-left: 1.5em;
     min-width: 0;
@@ -280,8 +280,9 @@ redirect_from:
 
   .pubs-more {
     margin: 1em 0 1.5em 0;
-    font-size: 0.85rem;
-    color: #494e52;
+    font-size: 1.25em;
+    font-weight: bold;
+    line-height: 1.2;
   }
 
   @media (max-width: 768px) {
