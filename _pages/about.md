@@ -21,10 +21,6 @@ redirect_from:
     color: #494e52;
   }
 
-  .cv-line {
-    margin: 0.3em 0;
-  }
-
   .cv-text p {
     font-size: 0.85rem;
     line-height: 1.6;
@@ -169,6 +165,12 @@ redirect_from:
     font-size: 0.85rem;
   }
 
+  ul.section-reviewer > li em {
+    display: inline-block;
+    min-width: 3.4em;
+    margin-right: 0.55em;
+  }
+
   @media (max-width: 768px) {
     ul.section-timeline > li {
       gap: 0.9em;
@@ -187,14 +189,13 @@ redirect_from:
 
 <div class="news-scroll">
   <ul>
-    <li><strong>Sep 2026</strong>: Two papers accepted by NeurIPS 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
-    <li><strong>Jul 2026</strong>: One co-authored <a href="https://living-lighting.github.io/">paper</a> (<em>LiveLight</em>) on <strong>Video Relighting</strong> accepted by ACM TOG 2026. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Mar 2026</strong>: One <a href="https://care-edit.github.io/">paper</a> (<em>CARE-Edit</em>) on <strong>Image Editing</strong> accepted by CVPR 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
-    <li><strong>Mar 2026</strong>: One co-authored <a href="https://easy-vfx.github.io/">paper</a> (<em>EasyVFX</em>) on <strong>VFX Generation</strong> accepted by SIGGRAPH 2026. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Aug 2025</strong>: One co-authored survey on <strong>Controllable Video Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Jul 2025</strong>: One co-authored <a href="https://copart3d.github.io/">paper</a> (<em>CoPart</em>) on <strong>3D Generation</strong> accepted by ICCV 2025. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
-    <li><strong>Jul 2025</strong>: One paper on <strong>Talking Head Generation</strong> released on <em><a href="https://arxiv.org/abs/2507.05092">arXiv</a></em>.</li>
-    <li><strong>Sep 2024</strong>: I’ve started my Ph.D. in Computer Science at HKUST advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a>.</li>
+    <li><strong>Sep 2026</strong>: Two papers (<em>SAFE-Hair</em> and <em>VTP</em>) accepted by NeurIPS 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> and <a href="https://jacky1128.github.io/">Zedong</a>!</li>
+    <li><strong>Jul 2026</strong>: One co-authored <a href="https://living-lighting.github.io/">paper</a> (<em>LiveLight</em>) accepted by ACM TOG 2026. Thanks to <a href="https://mayuelala.github.io/">Yue</a>!</li>
+    <li><strong>Mar 2026</strong>: One <a href="https://care-edit.github.io/">paper</a> (<em>CARE-Edit</em>) accepted by CVPR 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> and <a href="https://jacky1128.github.io/">Zedong</a>!</li>
+    <li><strong>Mar 2026</strong>: One co-authored <a href="https://easy-vfx.github.io/">paper</a> (<em>EasyVFX</em>) accepted by SIGGRAPH 2026. Thanks to <a href="https://mayuelala.github.io/">Yue</a>!</li>
+    <li><strong>Aug 2025</strong>: One co-authored survey released on <em><a href="https://arxiv.org/abs/2507.16869">arXiv</a></em>. Thanks to <a href="https://mayuelala.github.io/">Yue</a>!</li>
+    <li><strong>Jul 2025</strong>: One co-authored <a href="https://copart3d.github.io/">paper</a> (<em>CoPart</em>) accepted by ICCV 2025. Thanks to <a href="https://hkdsc.github.io/">Shaocong</a>!</li>
+    <li><strong>Jul 2025</strong>: One paper (<em>MoDiT</em>) released on <em><a href="https://arxiv.org/abs/2507.05092">arXiv</a></em>.</li>
     <li><strong>Jun 2024</strong>: I’ve graduated from HKUST with the <a href="https://registry.hkust.edu.hk/academic-achievement-medal">Academic Achievement Medal</a>. Thank you all my mentors and friends!</li>
   </ul>
 </div>
@@ -274,15 +275,15 @@ redirect_from:
 
 <ul class="section-honors">
   <li><em>2024</em> &nbsp;&nbsp; Hong Kong PhD Fellowship Scheme</li>
-  <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li>
+  <!-- <li><em>2024</em> &nbsp;&nbsp; HKUST RedBird PhD Scholarship</li> -->
   <li><em>2024</em> &nbsp;&nbsp; HKUST Academic Achievement Medal</li>
   <!-- <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship</li> -->
   <li><em>2023</em> &nbsp;&nbsp; HKSAR Government Scholarship Fund - Reaching Out Award</li>
-  <li><em>2023</em> &nbsp;&nbsp; Lee Hysan Foundation Exchange Scholarship</li>
+  <!-- <li><em>2023</em> &nbsp;&nbsp; Lee Hysan Foundation Exchange Scholarship</li> -->
   <li><em>2022</em> &nbsp;&nbsp; HKSAR Government Scholarship</li>
   <li><em>2021</em> &nbsp;&nbsp; The Joseph Lau Luen Hung Charitable Trust Scholarship</li>
   <!-- <li><em>2018</em> &nbsp;&nbsp; Silver Medal in the 4th China Collegiate Programming Contest (CCPC) Northeast Region</li> -->
-  <li><em>2018</em> &nbsp;&nbsp; First Prize in the 24th National Olympiad in Informatics in Provinces (NOIP)</li>
+  <!-- <li><em>2018</em> &nbsp;&nbsp; First Prize in the 24th National Olympiad in Informatics in Provinces (NOIP)</li> -->
 </ul>
 
 ## 👨‍🏫 Teaching Assistant
@@ -295,9 +296,9 @@ redirect_from:
 
 ## 📝 Journal Reviewer
 
-<ul class="section-honors">
-  <li><em>TPAMI</em> &nbsp;&nbsp; IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
-  <li><em>IJCV </em> &nbsp;&nbsp; International Journal of Computer Vision</li>
+<ul class="section-honors section-reviewer">
+  <li><em>TPAMI</em> IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
+  <li><em>IJCV</em> International Journal of Computer Vision</li>
 </ul>
 
 ## 👀 Visitors
