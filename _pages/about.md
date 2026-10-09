@@ -463,7 +463,7 @@ redirect_from:
   <div class="paper-box-text">
     <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
     <p>Yue Ma, Jiangming Wang, <strong>Yucheng Wang</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
-    <p><a href="https://arxiv.org/abs/2608.01771">[Paper]</a> <a href="https://github.com/mayuelala/LiveLight">[Code]</a> <a href="https://living-lighting.github.io/">[Project Page]</a> <a href="https://modelscope.cn/models/wjm1029/LiveLight">[Model]</a> <br></p>
+    <p><a href="https://arxiv.org/abs/2608.01771">[Paper]</a> <a href="https://github.com/mayuelala/LiveLight">[Code]</a> <a href="https://living-lighting.github.io/">[Project Page]</a> <br></p>
     <p>ACM Transactions on Graphics (TOG), 2026</p>
   </div>
 </div>
