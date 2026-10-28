@@ -496,6 +496,7 @@ redirect_from:
 <ul class="section-honors section-reviewer">
   <li><em>TPAMI</em> IEEE Transactions on Pattern Analysis and Machine Intelligence</li>
   <li><em>IJCV</em> International Journal of Computer Vision</li>
+  <li><em>TIP</em> IEEE Transactions on Image Processing</li>
 </ul>
 
 ## 👀 Visitors
