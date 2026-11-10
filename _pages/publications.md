@@ -138,9 +138,9 @@ author_profile: true
     </div>
   </div>
   <div class="paper-box-text">
-    <p><span class="pub-pending">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</span></p>
+    <p><a href="https://arxiv.org/abs/2611.12037">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</a></p>
     <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
-    <p><span class="pub-pending">(Coming Soon!)</span> <br></p>
+    <p><a href="https://arxiv.org/abs/2611.12037">[Paper]</a> <a href="https://github.com/SAFE-Hair/Code">[Code]</a> <a href="https://safe-hair.github.io/">[Project Page]</a> <br></p>
     <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
   </div>
 </div>
@@ -154,9 +154,9 @@ author_profile: true
     </div>
   </div>
   <div class="paper-box-text">
-    <p><span class="pub-pending">Virtual Task Prompting for Multi-Task Scene Understanding</span></p>
+    <p><a href="https://arxiv.org/abs/2611.11041">Virtual Task Prompting for Multi-Task Scene Understanding</a></p>
     <p>Zedong Wang<sup>*</sup>, <strong>Yucheng Wang</strong><sup>*</sup>, Dan Xu <br></p>
-    <p><span class="pub-pending">(Coming Soon!)</span> <br></p>
+    <p><a href="https://arxiv.org/abs/2611.11041">[Paper]</a> <a href="https://jacky1128.github.io/VTP/">[Project Page]</a> <br></p>
     <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
   </div>
 </div>
