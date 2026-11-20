@@ -9,11 +9,25 @@ redirect_from:
 ---
 
 <div class="cv-text">
-  <p>I'm a third-year Ph.D. student advised by <a href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a> on 3D gaze estimation and eye modeling.</p>
+  <p>I'm a third-year Ph.D. student advised by <a class="ref" href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a class="ref" href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a class="ref" href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a class="ref" href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a> on 3D gaze estimation and eye modeling.</p>
   <p>My research lies in Generative AI, with a focus on <strong>Controllable</strong> and <strong>Efficient</strong> image/video generation. More recently, I have been increasingly interested in how such generative models can serve for <strong>Embodied Intelligence</strong>. Feel free to reach out for discussions and collaborations.</p>
 </div>
 
 <style>
+  .page__content a.ref,
+  .page__content a.ref:visited,
+  .page__content a.ref:active {
+    color: #475569;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s ease;
+  }
+
+  .page__content a.ref:hover {
+    color: #1460b3;
+    text-decoration: none;
+  }
+
   .cv-text {
     margin-bottom: 1.5em;
     font-size: 0.85rem;
@@ -66,7 +80,17 @@ redirect_from:
     display: inline-block;
     width: 5.8em;
     text-indent: 0;
-    color: #1460b3;
+    color: #24292f;
+    font-weight: 600;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .news-list .news-month {
+    display: inline-block;
+    width: 2em;
+  }
+
+  .news-list a {
     font-weight: 600;
   }
 
@@ -284,7 +308,7 @@ redirect_from:
   }
 
   .paper-box .paper-box-text p:first-child {
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     line-height: 1.3;
   }
 
@@ -445,14 +469,14 @@ redirect_from:
 <div class="news-card">
 <div class="news-list" id="news-list">
   <ul>
-    <li><strong>Sep 2026</strong><a href="https://safe-hair.github.io/">SAFE-Hair</a> (3D Generation) and <a href="https://jacky1128.github.io/VTP/">VTP</a> (Scene Understanding) accepted to <strong>NeurIPS 2026</strong>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
-    <li><strong>Jul 2026</strong><a href="https://living-lighting.github.io/">LiveLight</a> (Video Generation) accepted to <strong>ACM TOG 2026</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Mar 2026</strong><a href="https://care-edit.github.io/">CARE-Edit</a> (Image Generation) accepted to <strong>CVPR 2026</strong>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
-    <li><strong>Mar 2026</strong><a href="https://easy-vfx.github.io/">EasyVFX</a> (Video Generation) accepted to <strong>SIGGRAPH 2026</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Aug 2025</strong><a href="https://arxiv.org/abs/2507.16869">Survey</a> (Controllable Video Generation) released on <strong>arXiv</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Jul 2025</strong><a href="https://copart3d.github.io/">CoPart</a> (3D Generation) accepted to <strong>ICCV 2025</strong>. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
-    <li><strong>Jul 2025</strong><a href="https://arxiv.org/abs/2507.05092">MoDiT</a> (Video Generation) released on <strong>arXiv</strong>.</li>
-    <li><strong>Jun 2024</strong>Graduated from HKUST with the <a href="https://registry.hkust.edu.hk/academic-achievement-medal">Academic Achievement Medal</a>. Thank you all my mentors and friends!</li>
+    <li><strong><span class="news-month">Sep</span> 2026</strong><a href="https://safe-hair.github.io/">SAFE-Hair</a> (3D Generation) and <a href="https://jacky1128.github.io/VTP/">VTP</a> (Scene Understanding) accepted to <strong>NeurIPS 2026</strong>. Thanks to <a class="ref" href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a class="ref" href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
+    <li><strong><span class="news-month">Jul</span> 2026</strong><a href="https://living-lighting.github.io/">LiveLight</a> (Video Generation) accepted to <strong>ACM TOG 2026</strong>. Appreciate the dedication of <a class="ref" href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong><span class="news-month">Mar</span> 2026</strong><a href="https://care-edit.github.io/">CARE-Edit</a> (Image Generation) accepted to <strong>CVPR 2026</strong>. Thanks to <a class="ref" href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a class="ref" href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
+    <li><strong><span class="news-month">Mar</span> 2026</strong><a href="https://easy-vfx.github.io/">EasyVFX</a> (Video Generation) accepted to <strong>SIGGRAPH 2026</strong>. Appreciate the dedication of <a class="ref" href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong><span class="news-month">Aug</span> 2025</strong><a href="https://arxiv.org/abs/2507.16869">Survey</a> (Controllable Video Generation) released on <strong>arXiv</strong>. Appreciate the dedication of <a class="ref" href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong><span class="news-month">Jul</span> 2025</strong><a href="https://copart3d.github.io/">CoPart</a> (3D Generation) accepted to <strong>ICCV 2025</strong>. Appreciate the dedication of <a class="ref" href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
+    <li><strong><span class="news-month">Jul</span> 2025</strong><a href="https://arxiv.org/abs/2507.05092">MoDiT</a> (Video Generation) released on <strong>arXiv</strong>.</li>
+    <li><strong><span class="news-month">Jun</span> 2024</strong>Graduated from HKUST with the <a href="https://registry.hkust.edu.hk/academic-achievement-medal">Academic Achievement Medal</a>. Thank you all my mentors and friends!</li>
   </ul>
 </div>
 <div class="news-toggle">
@@ -576,7 +600,7 @@ redirect_from:
     <div class="tl-body">
       <span class="tl-title">SmartMore</span>
       <span class="tl-date">Nov 2023 - Jan 2024</span>
-      <span class="tl-detail">Research Intern, Mentored by: <a href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a href="https://yukangchen.com/">Dr. Yukang Chen</a></span>
+      <span class="tl-detail">Research Intern, Mentored by: <a class="ref" href="https://julianjuaner.github.io/">Dr. Yuechen Zhang</a> and <a class="ref" href="https://yukangchen.com/">Dr. Yukang Chen</a></span>
       <span class="tl-detail">Focus: Vision-Language Model</span>
     </div>
     <img class="tl-logo" src="/images/SmartMore.png" alt="SmartMore logo">
@@ -585,7 +609,7 @@ redirect_from:
     <div class="tl-body">
       <span class="tl-title">Computer Vision Laboratory @ETH Zurich </span>
       <span class="tl-date">Aug 2023 - Nov 2023</span>
-      <span class="tl-detail">Research Intern, Mentored by: <a href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a></span>
+      <span class="tl-detail">Research Intern, Mentored by: <a class="ref" href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a></span>
       <span class="tl-detail">Focus: Generative Model</span>
     </div>
     <img class="tl-logo" src="/images/ETH.png" alt="ETH Zurich logo">
@@ -594,7 +618,7 @@ redirect_from:
     <div class="tl-body">
       <span class="tl-title">Career Hackers @HKSTP</span>
       <span class="tl-date">Jun 2022 - Aug 2022</span>
-      <span class="tl-detail">Backend Developer, Mentored by: <a href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></span>
+      <span class="tl-detail">Backend Developer, Mentored by: <a class="ref" href="https://www.linkedin.com/in/justin-wang-lap-tang-5523b9175/">Mr. Justin Tang</a></span>
       <span class="tl-detail">Focus: Amazon Web Services and APIs</span>
     </div>
     <img class="tl-logo" src="/images/CH.png" alt="Career Hackers logo">

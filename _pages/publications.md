@@ -60,7 +60,7 @@ author_profile: true
   }
 
   .paper-box .paper-box-text p:first-child {
-    font-size: 0.875rem;
+    font-size: 0.8125rem;
     line-height: 1.3;
   }
 
