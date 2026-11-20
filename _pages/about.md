@@ -17,15 +17,19 @@ redirect_from:
   .page__content a.ref,
   .page__content a.ref:visited,
   .page__content a.ref:active {
-    color: #64748b;
+    color: #7c8796;
     font-weight: 600;
-    text-decoration: none;
-    transition: color 0.2s ease;
+    text-decoration: underline;
+    text-decoration-color: #c5ccd4;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease;
   }
 
   .page__content a.ref:hover {
     color: #1460b3;
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: #1460b3;
   }
 
   .cv-text {
