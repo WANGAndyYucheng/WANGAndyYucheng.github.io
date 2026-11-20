@@ -12,19 +12,10 @@ author_profile: true
     align-items: center;
     flex-direction: row;
     flex-wrap: nowrap;
-    border: 1px solid #e8e8e8;
-    border-radius: 10px;
-    background: #fff;
-    padding: 1em 1.2em;
-    margin: 0 0 1em 0;
+    border-bottom: 1px solid #efefef;
+    padding: 1.2em 0;
     gap: 0;
     clear: both;
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
-  }
-
-  .paper-box:hover {
-    border-color: #d4e3f5;
-    box-shadow: 0 4px 14px rgba(20, 96, 179, 0.08);
   }
 
   .paper-box .paper-box-image {
