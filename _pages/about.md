@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div class="cv-text">
-  <p>I'm a third-year Ph.D. student advised by <a class="ref" href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a class="ref" href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a class="ref" href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a class="ref" href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a> on 3D gaze estimation and eye modeling.</p>
+  <p>I'm a third-year Ph.D. student advised by <a class="ref" href="https://www.danxurgb.net">Prof. Dan Xu</a> at The Hong Kong University of Science and Technology (<a class="ref" href="https://hkust.edu.hk/">HKUST</a>). I earned my bachelor’s degree in Computer Science and Electronic Engineering from HKUST. I also spent a semester on exchange at <a class="ref" href="https://ethz.ch/en.html">ETH Zurich</a>, where I was fortunate to work with <a class="ref" href="https://insait.ai/dr-danda-paudel/">Prof. Danda Paudel</a>.</p>
   <p>My research lies in Generative AI, with a focus on <strong>Controllable</strong> and <strong>Efficient</strong> image/video generation. More recently, I have been increasingly interested in how such generative models can serve for <strong>Embodied Intelligence</strong>. Feel free to reach out for discussions and collaborations.</p>
 </div>
 
@@ -20,15 +20,13 @@ redirect_from:
     color: #7c8796;
     font-weight: 600;
     text-decoration: underline;
-    text-decoration-color: #c5ccd4;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 3px;
-    transition: color 0.2s ease, text-decoration-color 0.2s ease;
+    text-decoration-color: rgba(124, 135, 150, 0.45);
+    text-underline-offset: 2px;
+    transition: color 0.2s ease;
   }
 
   .page__content a.ref:hover {
     color: #1460b3;
-    text-decoration: underline;
     text-decoration-color: #1460b3;
   }
 
