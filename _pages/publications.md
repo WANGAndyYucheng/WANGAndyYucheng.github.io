@@ -19,8 +19,8 @@ author_profile: true
   }
 
   .paper-box .paper-box-image {
-    flex: 0 0 30%;
-    max-width: 30%;
+    flex: 0 0 34%;
+    max-width: 34%;
     justify-content: flex-start;
     display: flex;
     order: 1;
@@ -44,8 +44,8 @@ author_profile: true
   }
 
   .paper-box .paper-box-text {
-    flex: 1 1 70%;
-    max-width: 70%;
+    flex: 1 1 66%;
+    max-width: 66%;
     order: 2;
     padding-left: 1.5em;
     min-width: 0;
