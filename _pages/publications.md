@@ -70,8 +70,43 @@ author_profile: true
     font-weight: 500;
   }
 
+  .paper-box .paper-box-text p:first-child a {
+    text-decoration: none;
+  }
+
   .paper-box .paper-box-text p:first-child a:hover {
     color: #0f508f;
+    text-decoration: underline;
+  }
+
+  .paper-box .paper-box-text p.pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4em;
+    margin: 0.4rem 0 0.45rem 0;
+  }
+
+  .paper-box .paper-box-text p.pub-links a.pub-link,
+  .paper-box .paper-box-text p.pub-links a.pub-link:visited {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35em;
+    padding: 0.12em 0.75em;
+    font-size: 0.72rem;
+    font-weight: 600;
+    line-height: 1.6;
+    color: #1460b3;
+    background: #eef4fb;
+    border: 1px solid #d4e3f5;
+    border-radius: 999px;
+    text-decoration: none;
+    transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .paper-box .paper-box-text p.pub-links a.pub-link:hover {
+    color: #fff;
+    background: #1460b3;
+    border-color: #1460b3;
   }
 
   .paper-box .paper-box-text a,
@@ -140,7 +175,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2611.12037">SAFE-Hair: Scalp-Anchored Fields for Exportable Single-View Hair Reconstruction</a></p>
     <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
-    <p><a href="https://arxiv.org/abs/2611.12037">[Paper]</a> <a href="https://github.com/SAFE-Hair/Code">[Code]</a> <a href="https://safe-hair.github.io/">[Project Page]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2611.12037"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://github.com/SAFE-Hair/Code"><i class="fab fa-github" aria-hidden="true"></i>Code</a> <a class="pub-link" href="https://safe-hair.github.io/"><i class="fas fa-globe" aria-hidden="true"></i>Project Page</a></p>
     <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
   </div>
 </div>
@@ -156,7 +191,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2611.11041">Virtual Task Prompting for Multi-Task Scene Understanding</a></p>
     <p>Zedong Wang<sup>*</sup>, <strong>Yucheng Wang</strong><sup>*</sup>, Dan Xu <br></p>
-    <p><a href="https://arxiv.org/abs/2611.11041">[Paper]</a> <a href="https://jacky1128.github.io/VTP/">[Project Page]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2611.11041"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://jacky1128.github.io/VTP/"><i class="fas fa-globe" aria-hidden="true"></i>Project Page</a></p>
     <p>Conference on Neural Information Processing Systems (NeurIPS), 2026</p>
   </div>
 </div>
@@ -172,7 +207,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://living-lighting.github.io/">LiveLight: Real-time Streaming Video Relighting with Interactive Control</a></p>
     <p>Yue Ma, Jiangming Wang, <strong>Yucheng Wang</strong>, Xilai Wang, Zhiyuan Li, Xinyu Wang, Hongyu Liu, Ruofan Liang, Songchun Zhang, Yuxuan Xue, Qifeng Chen <br></p>
-    <p><a href="https://arxiv.org/abs/2608.01771">[Paper]</a> <a href="https://github.com/mayuelala/LiveLight">[Code]</a> <a href="https://living-lighting.github.io/">[Project Page]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2608.01771"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://github.com/mayuelala/LiveLight"><i class="fab fa-github" aria-hidden="true"></i>Code</a> <a class="pub-link" href="https://living-lighting.github.io/"><i class="fas fa-globe" aria-hidden="true"></i>Project Page</a></p>
     <p>ACM Transactions on Graphics (TOG), 2026</p>
   </div>
 </div>
@@ -188,7 +223,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2603.08589">CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing</a></p>
     <p><strong>Yucheng Wang</strong><sup>*</sup>, Zedong Wang<sup>*</sup>, Yuetong Wu, Yue Ma, Dan Xu <br></p>
-    <p><a href="https://arxiv.org/abs/2603.08589">[Paper]</a> <a href="https://github.com/CARE-Edit/Code">[Code]</a> <a href="https://care-edit.github.io/">[Project Page]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2603.08589"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://github.com/CARE-Edit/Code"><i class="fab fa-github" aria-hidden="true"></i>Code</a> <a class="pub-link" href="https://care-edit.github.io/"><i class="fas fa-globe" aria-hidden="true"></i>Project Page</a></p>
     <p>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026</p>
   </div>
 </div>
@@ -204,7 +239,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2605.22051">EasyVFX: Frequency-Driven Decoupling for Resource-Efficient VFX Generation</a></p>
     <p>Yue Ma, Xu Ye, Qinghe Wang, <strong>Yucheng Wang</strong>, Hongyu Liu, Yinhan Zhang, Xinyu Wang, Yuanpeng Che, Shanhui Mo, Paul Liang, Fangneng Zhan, Qifeng Chen <br></p>
-    <p><a href="https://arxiv.org/abs/2605.22051">[Paper]</a> <a href="https://github.com/mayuelala/EasyVFX">[Code]</a> <a href="https://easy-vfx.github.io/">[Project Page]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2605.22051"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://github.com/mayuelala/EasyVFX"><i class="fab fa-github" aria-hidden="true"></i>Code</a> <a class="pub-link" href="https://easy-vfx.github.io/"><i class="fas fa-globe" aria-hidden="true"></i>Project Page</a></p>
     <p>ACM SIGGRAPH Conference Proceedings (SIGGRAPH), 2026</p>
   </div>
 </div>
@@ -220,7 +255,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2507.08772">From One to More: Contextual Part Latents for 3D Generation</a></p>
     <p>Shaocong Dong<sup>*</sup>, Lihe Ding<sup>*</sup>, Xiao Chen, Yaokun Li, Yuxin Wang, <strong>Yucheng Wang</strong>, Qi Wang, Jaehyeok Kim, Chenjian Gao, Zhanpeng Huang, Zibin Wang, Tianfan Xue, Dan Xu <br></p>
-    <p><a href="https://arxiv.org/abs/2507.08772">[Paper]</a> <a href="https://github.com/hkdsc/copart">[Code]</a> <a href="https://hkdsc.github.io/project/copart/">[Project Page]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2507.08772"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://github.com/hkdsc/copart"><i class="fab fa-github" aria-hidden="true"></i>Code</a> <a class="pub-link" href="https://hkdsc.github.io/project/copart/"><i class="fas fa-globe" aria-hidden="true"></i>Project Page</a></p>
     <p>IEEE/CVF International Conference on Computer Vision (ICCV), 2025</p>
   </div>
 </div>
@@ -236,7 +271,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2507.16869">Controllable Video Generation: A Survey</a></p>
     <p>Yue Ma<sup>*</sup>, Kunyu Feng<sup>*</sup>, Zhongyuan Hu<sup>*</sup>, Xinyu Wang<sup>*</sup>, <strong>Yucheng Wang</strong>, Mingzhe Zheng, Bingyuan Wang, Qinghe Wang, Xuanhua He, Hongfa Wang, Chenyang Zhu, Hongyu Liu, Yingqing He, Zeyu Wang, Zhifeng Li, Xiu Li, Sirui Han, Yike Guo, Wei Liu, Dan Xu, Linfeng Zhang, Qifeng Chen <br></p>
-    <p><a href="https://arxiv.org/abs/2507.16869">[Paper]</a> <a href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation">[Code]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2507.16869"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a> <a class="pub-link" href="https://github.com/mayuelala/Awesome-Controllable-Video-Generation"><i class="fab fa-github" aria-hidden="true"></i>Code</a></p>
     <p>Survey on controllable video generation (arXiv), 2025</p>
   </div>
 </div>
@@ -252,7 +287,7 @@ author_profile: true
   <div class="paper-box-text">
     <p><a href="https://arxiv.org/abs/2507.05092">Learning Highly Consistent 3D Motion Coefficients with Diffusion Transformer for Talking Head Generation</a></p>
     <p><strong>Yucheng Wang</strong>, Dan Xu <br></p>
-    <p><a href="https://arxiv.org/abs/2507.05092">[Paper]</a> <br></p>
+    <p class="pub-links"><a class="pub-link" href="https://arxiv.org/abs/2507.05092"><i class="fas fa-file-alt" aria-hidden="true"></i>Paper</a></p>
     <p>Undergraduate Thesis, The Hong Kong University of Science and Technology (HKUST), 2025</p>
   </div>
 </div>
