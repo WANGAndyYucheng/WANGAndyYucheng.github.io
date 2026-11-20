@@ -445,13 +445,13 @@ redirect_from:
 <div class="news-card">
 <div class="news-list" id="news-list">
   <ul>
-    <li><strong>Sep 2026</strong><a href="https://safe-hair.github.io/">SAFE-Hair</a> (3D generation) and <a href="https://jacky1128.github.io/VTP/">VTP</a> (multi-task learning) accepted to <strong>NeurIPS 2026</strong>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
-    <li><strong>Jul 2026</strong><a href="https://living-lighting.github.io/">LiveLight</a> (video relighting) accepted to <strong>ACM TOG 2026</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Mar 2026</strong><a href="https://care-edit.github.io/">CARE-Edit</a> (image editing) accepted to <strong>CVPR 2026</strong>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
-    <li><strong>Mar 2026</strong><a href="https://easy-vfx.github.io/">EasyVFX</a> (VFX generation) accepted to <strong>SIGGRAPH 2026</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Aug 2025</strong><a href="https://arxiv.org/abs/2507.16869">Survey</a> (controllable video generation) released on <strong>arXiv</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
-    <li><strong>Jul 2025</strong><a href="https://copart3d.github.io/">CoPart</a> (3D generation) accepted to <strong>ICCV 2025</strong>. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
-    <li><strong>Jul 2025</strong><a href="https://arxiv.org/abs/2507.05092">Paper</a> (talking head generation) released on <strong>arXiv</strong>.</li>
+    <li><strong>Sep 2026</strong><a href="https://safe-hair.github.io/">SAFE-Hair</a> (3D Generation) and <a href="https://jacky1128.github.io/VTP/">VTP</a> (Scene Understanding) accepted to <strong>NeurIPS 2026</strong>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
+    <li><strong>Jul 2026</strong><a href="https://living-lighting.github.io/">LiveLight</a> (Video Generation) accepted to <strong>ACM TOG 2026</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Mar 2026</strong><a href="https://care-edit.github.io/">CARE-Edit</a> (Image Generation) accepted to <strong>CVPR 2026</strong>. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
+    <li><strong>Mar 2026</strong><a href="https://easy-vfx.github.io/">EasyVFX</a> (Video Generation) accepted to <strong>SIGGRAPH 2026</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Aug 2025</strong><a href="https://arxiv.org/abs/2507.16869">Survey</a> (Controllable Video Generation) released on <strong>arXiv</strong>. Appreciate the dedication of <a href="https://mayuelala.github.io/">Yue Ma</a>!</li>
+    <li><strong>Jul 2025</strong><a href="https://copart3d.github.io/">CoPart</a> (3D Generation) accepted to <strong>ICCV 2025</strong>. Appreciate the dedication of <a href="https://hkdsc.github.io/">Shaocong Dong</a>!</li>
+    <li><strong>Jul 2025</strong><a href="https://arxiv.org/abs/2507.05092">MoDiT</a> (Video Generation) released on <strong>arXiv</strong>.</li>
     <li><strong>Jun 2024</strong>Graduated from HKUST with the <a href="https://registry.hkust.edu.hk/academic-achievement-medal">Academic Achievement Medal</a>. Thank you all my mentors and friends!</li>
   </ul>
 </div>
