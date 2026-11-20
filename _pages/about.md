@@ -27,6 +27,14 @@ redirect_from:
     margin: 0 0 1em 0;
   }
 
+  .news-card {
+    margin: 0 0 1.5em 0;
+    padding: 0.4em 1.2em 0.5em 1.2em;
+    background: #fafbfc;
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+  }
+
   .news-list {
     font-size: 0.85rem;
     line-height: 1.6;
@@ -40,10 +48,22 @@ redirect_from:
   }
 
   .news-list li {
-    margin: 0 0 0.45em 0;
-    padding-left: 5.8em;
+    margin: 0;
+    padding: 0.55em 0 0.55em 5.8em;
     text-indent: -5.8em;
     font-size: 0.85rem;
+  }
+
+  .news-list a {
+    text-decoration: none;
+  }
+
+  .news-list a:hover {
+    text-decoration: underline;
+  }
+
+  .news-list li + li {
+    border-top: 1px dashed #e3e7ec;
   }
 
   .news-list li > strong:first-child {
@@ -59,7 +79,10 @@ redirect_from:
   }
 
   .news-toggle {
-    margin: 0.2em 0 1.5em 5.8em;
+    margin: 0;
+    padding: 0.45em 0 0.1em 0;
+    border-top: 1px solid #e8e8e8;
+    text-align: center;
     font-size: 0.85rem;
   }
 
@@ -218,10 +241,19 @@ redirect_from:
     align-items: center;
     flex-direction: row;
     flex-wrap: nowrap;
-    border-bottom: 1px solid #efefef;
-    padding: 1.2em 0;
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    background: #fff;
+    padding: 1em 1.2em;
+    margin: 0 0 1em 0;
     gap: 0;
     clear: both;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .paper-box:hover {
+    border-color: #d4e3f5;
+    box-shadow: 0 4px 14px rgba(20, 96, 179, 0.08);
   }
 
   .paper-box .paper-box-image {
@@ -244,7 +276,8 @@ redirect_from:
     max-width: 400px;
     height: auto;
     aspect-ratio: 2.15 / 1;
-    box-shadow: 3px 3px 6px #888;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
     object-fit: contain;
     background: #fff;
   }
@@ -338,6 +371,7 @@ redirect_from:
     margin-left: -0.5em;
     color: #fff;
     background-color: #0d4da8;
+    border-radius: 3px;
     font-size: 0.8em;
     z-index: 1;
   }
@@ -422,6 +456,7 @@ redirect_from:
 
 ## 🗞️ News
 
+<div class="news-card">
 <div class="news-list" id="news-list">
   <ul>
     <li><strong>Sep 2026</strong>Two papers (SAFE-Hair and VTP) on <strong>3D Generation</strong> and <strong>Multi-task Learning</strong> accepted by NeurIPS 2026. Thanks to <a href="https://www.danxurgb.net">Prof. Dan Xu</a> for his great help and all coauthors. Appreciate the dedication of <a href="https://jacky1128.github.io/">Zedong Wang</a>!</li>
@@ -436,6 +471,7 @@ redirect_from:
 </div>
 <div class="news-toggle">
   <button type="button" onclick="var l=document.getElementById('news-list');this.textContent=l.classList.toggle('expanded')?'Show less ↑':'Show more ↓';">Show more ↓</button>
+</div>
 </div>
 
 ## 📚 Selected Publications

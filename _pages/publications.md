@@ -12,10 +12,19 @@ author_profile: true
     align-items: center;
     flex-direction: row;
     flex-wrap: nowrap;
-    border-bottom: 1px solid #efefef;
-    padding: 1.2em 0;
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    background: #fff;
+    padding: 1em 1.2em;
+    margin: 0 0 1em 0;
     gap: 0;
     clear: both;
+    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+  }
+
+  .paper-box:hover {
+    border-color: #d4e3f5;
+    box-shadow: 0 4px 14px rgba(20, 96, 179, 0.08);
   }
 
   .paper-box .paper-box-image {
@@ -38,7 +47,8 @@ author_profile: true
     max-width: 400px;
     height: auto;
     aspect-ratio: 2.15 / 1;
-    box-shadow: 3px 3px 6px #888;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.18);
     object-fit: contain;
     background: #fff;
   }
@@ -140,6 +150,7 @@ author_profile: true
     margin-left: -0.5em;
     color: #fff;
     background-color: #0d4da8;
+    border-radius: 3px;
     font-size: 0.8em;
     z-index: 1;
   }
